@@ -1,0 +1,98 @@
+{
+  "communityName": "GDG Prayagraj",
+  "communityLocation": {
+    "country": "India",
+    "city": "Prayagraj"
+  },
+  "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
+  "communityLinks": {
+    "page": "https://gdg.community.dev/gdg-prayagraj/",
+    "website": "https://gdg.community.dev/gdg-prayagraj/",
+    "instagram": "https://www.instagram.com/gdg_prayagraj/",
+    "linkedin": "https://www.linkedin.com/company/gdg-prayagraj/",
+    "youtube": "https://www.youtube.com/@gdgprayagraj"
+  },
+  "eventInfo": {
+    "name": "DevFest Prayagraj 2024",
+    "date": "TBA",
+    "time": "TBA",
+    "venue": {
+      "address": "UIT, Prayagraj",
+      "map_link": "https://maps.app.goo.gl/GNhyNf9GW4S75vQK9"
+    },
+    "registeration": {
+      "link": "https://gdg.community.dev/gdg-prayagraj/",
+      "end_date": "2024-10-25"
+    },
+    "description": {
+      "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
+      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+    },
+    "stats": [
+      {
+        "name": "Speakers",
+        "value": "6+",
+        "color": "#C3ECF6",
+        "image": "img/common/blue.png"
+      },
+      {
+        "name": "Participants",
+        "value": "450+",
+        "color": "#F8D8D8",
+        "image": "img/common/pink.png"
+      },
+      {
+        "name": "Sessions",
+        "value": "10+",
+        "color": "#CCF6C5",
+        "image": "img/common/green.png"
+      },
+      {
+        "name": "Workshops",
+        "value": "2+",
+        "color": "#FFE7A5",
+        "image": "img/common/yellow.png"
+      }
+    ],
+    "whatToExpect": [
+      {
+        "title": "Technical content",
+        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+      },
+      {
+        "title": "Technical content",
+        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+      },
+      {
+        "title": "Technical content",
+        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+      }
+    ],
+    "pastDevFest": {
+      "summery": "DevFest 2023, organized by GDG Prayagraj, was a major tech event that brought together developers, tech enthusiasts, and industry experts for a day of learning and networking. The event featured insightful sessions on cutting-edge technologies, workshops, and hands-on coding activities. It provided an excellent platform for participants to explore topics like AI, cloud computing, and web development. DevFest 2023 fostered community engagement and inspired developers to innovate, collaborate, and grow within the tech ecosystem.",
+      "images": ["image-1.png", "image-2.png", "image-3.png"],
+      "stats": [
+        {
+          "name": "Speakers",
+          "value": "6+"
+        },
+        {
+          "name": "Participants",
+          "value": "450+"
+        },
+        {
+          "name": "Sessions",
+          "value": "10+"
+        },
+        {
+          "name": "Workshops",
+          "value": "2+"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "keywords": "GDG, DevFest, Google, DevFest",
+    "hostUrl": "https://devfest-2024-beige.vercel.app/"
+  }
+}
