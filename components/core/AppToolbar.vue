@@ -63,7 +63,7 @@
           font-weight: 100;
         "
         variant="flat"
-        >Register Now</v-btn
+        >COMING SOON</v-btn
       >
     </ClientOnly>
     
