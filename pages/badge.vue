@@ -234,8 +234,8 @@ useSeoMeta({
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
   ogLocale:'en_US',
-  author: "OSS Labs",
-  creator: "OSS Labs",
+  author: "GDG Prayagraj Team",
+  creator: "GDG Prayagraj Team",
   viewport: "width=device-width, initial-scale=1.0",
   ogTitle:
     "Badge - " + mainData.eventInfo.name + " | " + mainData.communityName,
