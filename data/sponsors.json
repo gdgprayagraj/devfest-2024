@@ -1,58 +1,47 @@
 [
-  {
-      "category_name": "Title Sponsors",
-      "sponsors": [
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          }
-      ]
-  },
-  {
-      "category_name": "Venue Sponsors",
-      "sponsors": [
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
-              "logo": "googlefordevelopers.png"   
-          }
-      ]
-  },
-  {
-      "category_name": "Template Partner",
-      "sponsors": [
-          {
-              "name":"TechFerment",
-              "link": "https://techferment.com",
-              "logo": "techferment.png"   
-          }
-      ]
-  }
-
+    {
+        "category_name": "Title Sponsors",
+        "sponsors": [
+            {
+                "name": "Google For Developers",
+                "link": "https://developers.google.com",
+                "logo": "googlefordevelopers.png"
+            },
+            {
+                "name": "TensorFlow User Group (TFUG), Prayagraj",
+                "link": "https://www.meetup.com/tensorflow-user-group-prayagraj/",
+                "logo": "tfugprayagraj.png"
+            },
+            {
+                "name": "WikiTech Club",
+                "link": "https://www.meetup.com/tensorflow-user-group-prayagraj/",
+                "logo": "tfugprayagraj.png"
+            },
+            {
+                "name": "Cloud Native Computing Foundation (CNCF), Greater Noida",
+                "link": "https://developers.google.com",
+                "logo": "cncf-greater-noida.png"
+            },
+            {
+                "name": "Kaggle Days Prayagraj",
+                "link": "https://developers.google.com",
+                "logo": "kaggle-days-prayagraj.png"
+            },
+            {
+                "name": "TechFerment",
+                "link": "https://techferment.com",
+                "logo": "techferment.png"
+            }
+        ]
+    },
+    {
+        "category_name": "Venue Sponsors",
+        "sponsors": [
+            {
+                "name": "UIT, Prayagraj",
+                "link": "https://www.united.ac.in/uit/",
+                "logo": "uit.png"
+            }
+        ]
+    }
 ]

@@ -63,6 +63,15 @@
                 aria-label="link"
                 class="mr-6 google-font grey--text text--darken-3"
                 style="text-decoration: none; color: white"
+                >Ticket transfer and Refund policy</a
+              >
+              <a
+                href="https://developers.google.com/community-guidelines"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="link"
+                class="mr-6 google-font grey--text text--darken-3"
+                style="text-decoration: none; color: white"
                 >Community Guidelines</a
               >
             </v-col>
