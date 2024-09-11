@@ -3,8 +3,8 @@
     "id": "6001",
     "name": "Ankit Kumar Verma",
     "company": {
-      "name": "GDG Prayagraj",
-      "designation": "Organizer"
+      "name": "Organizer",
+      "designation": ""
     },
     "community_title": "",
     "image": "ankit.jpeg",
@@ -14,6 +14,132 @@
       "twitter": "",
       "github": "",
       "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Hridyesh Gupta",
+    "company": {
+      "name": "Former GDSC Lead UIT'23",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "hridyesh.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/hridyesh-gupta/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6003",
+    "name": "Avarti Rastogi",
+    "company": {
+      "name": "Management Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "avarti.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/avarti-rastogi/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Management"
+  },
+  {
+    "id": "6004",
+    "name": "Anjali Mishra",
+    "company": {
+      "name": "Operations & Management Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "anjali.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/anjali-mishra-606b94241/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Management"
+  },
+  {
+    "id": "6005",
+    "name": "Aditya Kumar",
+    "company": {
+      "name": "Design Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "aditya.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ankit-kumar-verma-081804160/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Design"
+  },
+  {
+    "id": "6006",
+    "name": "Gauri Gupta",
+    "company": {
+      "name": "Management Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "gauri.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/gauri-gupta-628b7a241/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Management"
+  },
+  {
+    "id": "6007",
+    "name": "Sarthak Singh",
+    "company": {
+      "name": "Management & Design Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "sarthak.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ankit-kumar-verma-081804160/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Design"
+  },
+  {
+    "id": "6008",
+    "name": "Agamya Samuel",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "agamya.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/agamyasamuel/",
+      "twitter": "",
+      "github": "https://github.com/Agamya-Samuel/",
+      "web": "https://agamya.dev/"
     },
     "type": "Core"
   }
