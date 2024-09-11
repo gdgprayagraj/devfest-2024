@@ -3,7 +3,7 @@
         "category_name": "Title Sponsors",
         "sponsors": [
             {
-                "name": "Google For Developers",
+                "name": "Google For Developers (GDG), Prayagraj",
                 "link": "https://developers.google.com",
                 "logo": "googlefordevelopers.png"
             },
@@ -15,15 +15,15 @@
             {
                 "name": "WikiTech Club",
                 "link": "https://www.meetup.com/tensorflow-user-group-prayagraj/",
-                "logo": "tfugprayagraj.png"
+                "logo": "wikiclub.png"
             },
             {
                 "name": "Cloud Native Computing Foundation (CNCF), Greater Noida",
                 "link": "https://developers.google.com",
-                "logo": "cncf-greater-noida.png"
+                "logo": "cncf-color.png"
             },
             {
-                "name": "Kaggle Days Prayagraj",
+                "name": "Kaggle Days, Prayagraj",
                 "link": "https://developers.google.com",
                 "logo": "kaggle-days-prayagraj.png"
             },
