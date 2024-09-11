@@ -1,138 +1,87 @@
 [
   {
     "id": "101",
-    "name": "Vrijraj Singh",
+    "name": "Nishant Welpulwar",
     "company": {
-      "name": "agprop",
-      "designation": "CTO"
+      "name": "Google",
+      "designation": "AI Consultant"
     },
-    "community_title": "Google Developer Expert for Firebase",
-    "image": "vrijraj.jpg",
-    "bio": "Vrijraj is a dedicated CTO at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+    "community_title": "",
+    "image": "nishant.jpeg",
+    "bio": "Nishant Welpulwar is a leading expert in Artificial Intelligence, specializing in Generative AI at Google. With a deep understanding of AI technologies, Nishant has contributed to cutting-edge projects that leverage machine learning and advanced AI models. His expertise in Google Cloud Platform (GCP) has empowered businesses to harness the power of AI for transformative solutions.As a mentor, Nishant is passionate about guiding the next generation of AI enthusiasts, helping them navigate the complex landscape of technology and innovation. His work not only bridges the gap between AI theory and practical applications but also inspires others to explore new frontiers in artificial intelligence.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/nishantwelpulwar/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "102",
-    "name": "Full Name",
+    "name": "Dhrumil Shah",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Tata Digital",
+      "designation": "Lead Architect & Front End Architect"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Co-organizer, GDG Ahmedabad",
+    "image": "dhrumil.jpeg",
+    "bio": "Dhrumil Shah is the Lead Architect at TATA Digital and a Google Developer Expert (GDE) for Flutter & Dart. As a co-organizer of GDG Ahmedabad and a startup mentor, he plays a crucial role in shaping the developer ecosystem. Dhrumil is also an industry speaker and an active member of several advisory boards, sharing his insights and expertise on technology and innovation.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/dhuma1981/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "103",
-    "name": "Full Name",
+    "name": "Nitin Tiwari",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Colgate",
+      "designation": "Associate Data Scientist"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Developer Expert (GDE) in Machine Learning",
+    "image": "nitin.jpeg",
+    "bio": "Nitin Tiwari is an Associate Data Scientist at Colgate-Palmolive India Ltd. and a recognized Google Developer Expert (GDE) in Machine Learning. With a strong background in data science and machine learning, he helps drive innovative solutions in his field. Nitin is passionate about leveraging AI technologies to solve real-world problems and is an active contributor to the developer community.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/tiwari-nitin/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "104",
-    "name": "Full Name",
+    "name": "Yogesh Haribhau Kulkarni",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "TEDx Speaker",
+      "designation": "AI Coach"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "yogesh.jpeg",
+    "bio": "Yogesh Haribhau Kulkarni is an experienced AI Coach, dedicated to helping organizations navigate and succeed in their AI journeys. With a PhD in Geometric Modeling, Yogesh brings deep technical expertise to the table, enabling innovative applications of AI across industries. A TEDx Speaker, he is also a passionate advocate for the potential of AI to transform businesses and society.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/yogeshkulkarni/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "105",
-    "name": "Full Name",
+    "name": "Vivek Kumar",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Google",
+      "designation": "Project Management - News Trust & Safety"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "vivek.jpeg",
+    "bio": "Vivek Kumar leads Trust and Safety project management for Google’s News division, ensuring the integrity and security of content across the platform. With a strong focus on community management and entrepreneurial ventures, Vivek is dedicated to fostering safe and reliable digital ecosystems. His work reflects a commitment to maintaining trust in the ever-evolving digital landscape.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "106",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "107",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "108",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/fifa/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   }
 ]
