@@ -83,5 +83,22 @@
       "github": "",
       "web": ""
     }
+  },
+  {
+    "id": "106",
+    "name": "Anubhav Singh",
+    "company": {
+      "name": "Callchimp",
+      "designation": "Co-Founder"
+    },
+    "community_title": "Google Developer Expert (GDE) in Machine Learning and Cloud technologies",
+    "image": "anubhav.jpeg",
+    "bio": "Anubhav Singh is the co-founder of Callchimp.ai and a Google Developer Expert (GDE) in Machine Learning and Cloud technologies. A seasoned tech generalist, Anubhav has authored two books on Deep Learning and frequently shares his insights as a TEDx speaker. His expertise spans multiple domains, making him a leader in leveraging AI and cloud solutions for impactful innovation.",
+    "social": {
+      "linkedin": "https://in.linkedin.com/in/xprilion/",
+      "twitter": "https://x.com/xprilion/",
+      "github": "",
+      "web": ""
+    }
   }
 ]
