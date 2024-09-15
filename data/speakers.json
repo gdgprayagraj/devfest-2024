@@ -3,8 +3,8 @@
     "id": "101",
     "name": "Nishant Welpulwar",
     "company": {
-      "name": "Google",
-      "designation": "AI Consultant"
+      "name": "AI Consultant @Google",
+      "designation": ""
     },
     "community_title": "",
     "image": "nishant.jpeg",
@@ -20,8 +20,8 @@
     "id": "102",
     "name": "Dhrumil Shah",
     "company": {
-      "name": "Tata Digital",
-      "designation": "Lead Architect & Front End Architect"
+      "name": "Lead Architect & Front End Architect @Tata Digital and Google Developer Expert (GDE) Flutter ",
+      "designation": ""
     },
     "community_title": "Co-organizer, GDG Ahmedabad",
     "image": "dhrumil.jpeg",
@@ -37,10 +37,10 @@
     "id": "103",
     "name": "Nitin Tiwari",
     "company": {
-      "name": "Colgate",
-      "designation": "Associate Data Scientist"
+      "name": "Associate Data Scientist @Colgate and Google Developer Expert (GDE) Machine Learning",
+      "designation": ""
     },
-    "community_title": "Google Developer Expert (GDE) in Machine Learning",
+    "community_title": "",
     "image": "nitin.jpeg",
     "bio": "Nitin Tiwari is an Associate Data Scientist at Colgate-Palmolive India Ltd. and a recognized Google Developer Expert (GDE) in Machine Learning. With a strong background in data science and machine learning, he helps drive innovative solutions in his field. Nitin is passionate about leveraging AI technologies to solve real-world problems and is an active contributor to the developer community.",
     "social": {
@@ -54,10 +54,10 @@
     "id": "104",
     "name": "Yogesh Haribhau Kulkarni",
     "company": {
-      "name": "TEDx Speaker",
-      "designation": "AI Coach"
+      "name": "Google Developer Expert (GDE) Machine Learning",
+      "designation": ""
     },
-    "community_title": "",
+    "community_title": "TEDx Speaker and AI Coach",
     "image": "yogesh.jpeg",
     "bio": "Yogesh Haribhau Kulkarni is an experienced AI Coach, dedicated to helping organizations navigate and succeed in their AI journeys. With a PhD in Geometric Modeling, Yogesh brings deep technical expertise to the table, enabling innovative applications of AI across industries. A TEDx Speaker, he is also a passionate advocate for the potential of AI to transform businesses and society.",
     "social": {
@@ -88,10 +88,10 @@
     "id": "106",
     "name": "Anubhav Singh",
     "company": {
-      "name": "Callchimp",
-      "designation": "Co-Founder"
+      "name": "Co-Founder @Callchimp.ai and Google Developer Expert (GDE) Machine Learning and Cloud technologies",
+      "designation": ""
     },
-    "community_title": "Google Developer Expert (GDE) in Machine Learning and Cloud technologies",
+    "community_title": "",
     "image": "anubhav.jpeg",
     "bio": "Anubhav Singh is the co-founder of Callchimp.ai and a Google Developer Expert (GDE) in Machine Learning and Cloud technologies. A seasoned tech generalist, Anubhav has authored two books on Deep Learning and frequently shares his insights as a TEDx speaker. His expertise spans multiple domains, making him a leader in leveraging AI and cloud solutions for impactful innovation.",
     "social": {
