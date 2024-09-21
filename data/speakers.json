@@ -100,5 +100,56 @@
       "github": "",
       "web": ""
     }
+  },
+  {
+    "id": "107",
+    "name": "Vrijraj Singh",
+    "company": {
+      "name": "CTO @Agprop and Google Developer Expert (GDE) Firebase",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "vrijraj.jpeg",
+    "bio": "Vrijraj Singh is a Google Developer Expert (GDE) in Firebase, specializing in WebAssembly (Wasm) and WebGPU. With a strong background in web development, he is passionate about exploring the latest web technologies and their applications in AI and machine learning. Vrijraj is also an active contributor to the developer community, sharing his expertise through workshops, talks, and articles.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "108",
+    "name": "Ankit Kumar Verma (Organizer, GDG Prayagraj)",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "ankit.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "109",
+    "name": "Principal Sir (United Institute of Technology)",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "uit.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
   }
 ]

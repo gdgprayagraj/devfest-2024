@@ -18,7 +18,7 @@
           md="2"
           cols="6"
           sm="3"
-          v-for="(item, index) in speakersData"
+          v-for="(item, index) in filteredSpeakers"
           :key="index"
         >
           <common-speaker-card :data="item" />
@@ -30,6 +30,9 @@
 
 <script setup>
 const { mainData, speakersData } = useJSONData();
+
+const removeSpeakers = ["108", "109"]
+const filteredSpeakers = speakersData.filter(speaker => !removeSpeakers.includes(speaker.id));
 
 definePageMeta({
   layout: false,

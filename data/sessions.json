@@ -2,61 +2,147 @@
     {
         "id": "1001",
         "slide": "",
-        "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "title": "Keynote: Responsible AI and Community",
+        "description": "A welcome keynote introducing the event's theme on Responsible AI and its influence on the local developer community. Ankit and Principal Sir will set the tone for the day, outlining the agenda and vision for the future of AI in Prayagraj.",
+        "track": "",
+        "link": "",
+        "time": "9:00 AM to 9:30 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
+        "location": "Main Hall",
         "speakers": [
-            101
+            108,
+            109
         ]
     },
     {
         "id": "1002",
         "slide": "",
-        "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Session 1: Utilize the Power of AI with Flutter App Development",
+        "description": "In this session, Dhrumil will explore the integration of AI into Flutter applications, demonstrating how developers can make their mobile apps smarter and more intuitive with AI-powered features.",
+        "track": "Flutter",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "10:00 AM to 10:30 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
         "speakers": [
-            101
+            102
         ]
     },
     {
         "id": "1003",
         "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+        "title": "Session 2: Web Capabilities in AI with Baseline and Wasm",
+        "description": "In this session, Vrijraj will explain Baseline and how the latest web technologies, such as WebAssembly (Wasm) and WebGPU, enable running AI and machine learning workloads directly in the browser for enhanced performance, security, and privacy.",
         "track": "Web",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "10:30 AM to 11:00 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
         "speakers": [
-            102, 101
+            107
         ]
     },
     {
         "id": "1004",
         "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Photo Session",
+        "description": "A group photo session for all attendees, speakers, and organizers to capture the memories of the event.",
+        "track": "",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "11:00 AM to 11:30 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
+        "speakers": []
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "Lunch Break",
+        "description": "Enjoy a delicious lunch and networking with fellow attendees, speakers, and organizers.",
+        "track": "",
+        "link": "",
+        "time": "11:30 AM to 12:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 26, 2024",
+        "timeDuration": "60",
+        "speakers": []
+    },
+    {
+        "id": "1006",
+        "slide": "",
+        "title": "Session 3: Trust and Safety",
+        "description": "In this session, Explore the advanced mechanisms behind trust and safety at Google, keeping the web secure for billions of users every day.",
+        "track": "",
+        "link": "",
+        "time": "1:00 PM to 1:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
         "speakers": [
-            102
+            105
+        ]
+    },
+    {
+        "id": "1007",
+        "slide": "",
+        "title": "Session 4: AI and Generative AI in Web Development",
+        "description": "In this session, we'll dive deep into AI and Generative AI and its potential impact on web development, highlighting real-world use cases and future trends in AI-powered web applications.",
+        "track": "AI",
+        "link": "",
+        "time": "1:30 PM to 2:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
+        "speakers": []
+    },
+    {
+        "id": "1008",
+        "slide": "",
+        "title": "Session 3: Serverless AI with Cloud Run GPU",
+        "description": "In this session, Anubhav will cover how to deploy AI models in a serverless environment using Google Cloud Run with GPU, illustrating the benefits of scaling AI workloads with serverless technologies.",
+        "track": "",
+        "link": "",
+        "time": "1:00 PM to 1:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            106
+        ]
+    },
+    {
+        "id": "1009",
+        "slide": "",
+        "title": "Session 4: Multimodal Search & Retrieval-Augmented Generation (RAGs) Powered by Google Search",
+        "description": "In this session, Yogesh will showcase the potential of Multimodal Search and RAGs (Retrieval-Augmented Generation), explaining how they can be integrated with Google Search for enhanced information retrieval and responsible AI practices.",
+        "track": "",
+        "link": "",
+        "time": "1:30 PM to 2:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            104
+        ]
+    },
+    {
+        "id": "1010",
+        "slide": "",
+        "title": "Closing Remarks and Networking",
+        "description": "Final thoughts and appreciation for all speakers and attendees. An excellent opportunity for developers to network with industry experts and fellow attendees for future collaborations.",
+        "track": "",
+        "link": "",
+        "time": "2:00 PM to 2:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 26, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            108
         ]
     }
 ]
