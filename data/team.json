@@ -21,12 +21,12 @@
     "id": "6002",
     "name": "Hridyesh Gupta",
     "company": {
-      "name": "Former GDSC Lead UIT'23",
+      "name": "Co-organizer",
       "designation": ""
     },
     "community_title": "",
     "image": "hridyesh.jpeg",
-    "bio": "",
+    "bio": "Hridyesh Gupta is a dynamic individual with a passion for technology and community engagement. As the logistics lead at Google Developer Group (GDG) Prayagraj and co-organiser at TensorFlow User Group (TFUG) Prayagraj, he plays a crucial role in fostering tech communities. His leadership experience extends to his former position as a GDSC lead and organizer of WikiClub Tech - United Institute of Technology. \nHridyesh's contributions have not gone unnoticed, as he's been recognized as the top contributor among participants across India in the Google Notes project. His expertise shines through his roles as a Google Cloud Arcade and Google Cloud Study Jam facilitator. Additionally, he's an active open-source contributor, participating in initiatives like Hacktoberfest and Wiki projects.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/hridyesh-gupta/",
       "twitter": "",
@@ -44,12 +44,12 @@
     },
     "community_title": "",
     "image": "avarti.jpg",
-    "bio": "",
+    "bio": "Avarti Rastogi is a tech enthusiast who has been an integral part of the management team of Google Developer Group (GDG) Prayagraj and TensorFlow User Group (TFUG) Prayagraj for over 1.5 years. Her commitment to technology and community building extends beyond these roles, as she has also been appointed as the GDSC co-lead and WikiClub Tech UIT co-lead. As a public speaker, Avarti has hosted numerous events, including ML bootcamps and Women Techmakers (WTM) gatherings. Her leadership skills are further exemplified by her involvement in various management teams, showcasing her ability to organize and coordinate effectively. \nAvarti's expertise and dedication have been recognized on a national level. She was selected as one of only 188 facilitators across India for the prestigious Google Cloud Arcade program, highlighting her technical knowledge and teaching abilities.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/avarti-rastogi/",
       "twitter": "",
-      "github": "",
-      "web": ""
+      "github": "https://github.com/avartirastogi",
+      "web": "https://avartirastogi.wixsite.com/my-portfolio"
     },
     "type": "Management"
   },
@@ -62,11 +62,11 @@
     },
     "community_title": "",
     "image": "anjali.jpg",
-    "bio": "",
+    "bio": "Anjali Mishra is a passionate third-year computer science student with a keen interest in the exciting world of machine learning and computer vision. As a committed GDG Core team member and event manager at TFUG Prayagraj, she thrives on bringing tech enthusiasts together and exploring the latest innovations shaping our future. Her dedication to technology extends beyond her academic pursuits. She is an active open-source contributor, leveraging her skills to collaborate on projects that make a difference in the developer community. \nAnjali's involvement in open-source initiatives not only enhances her technical abilities but also demonstrates her commitment to the ethos of knowledge sharing and collective growth in the tech ecosystem. Through her roles in GDG and TFUG, combined with her open-source contributions, Anjali continues to foster a vibrant tech community while honing her expertise in cutting-edge technologies.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/anjali-mishra-606b94241/",
       "twitter": "",
-      "github": "",
+      "github": "https://github.com/Anjali-mish",
       "web": ""
     },
     "type": "Management"
@@ -100,7 +100,7 @@
     "image": "aditya.jpg",
     "bio": "Aditya Kumar is an active member of the Google Developer Group core team and a passionate contributor to WIKI projects. A skilled Java developer and AI/ML enthusiast, he is dedicated to exploring cutting-edge technologies. With strong team management skills and a flair for graphic design, Aditya also serves as a College Ambassador, helping to bridge the gap between students and the tech community.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/ankit-kumar-verma-081804160/",
+      "linkedin": "https://www.linkedin.com/in/aditya0545",
       "twitter": "https://x.com/InspiringKing45",
       "github": "https://github.com/Aditya0545",
       "web": ""
@@ -116,11 +116,11 @@
     },
     "community_title": "",
     "image": "sarthak.jpg",
-    "bio": "",
+    "bio": "Sarthak Singh is a technology enthusiast specializing in Artificial Intelligence and Machine Learning, with a strong interest in DevOps technologies. He currently serves as the Google Developer Group On Campus Lead, demonstrating his leadership skills in the tech community.\nFor over 1.5 years, Sarthak has been actively contributing to the tech ecosystem through his involvement with GDG Prayagraj and TFUG ML Prayagraj. His dedication to fostering tech communities and sharing knowledge has made him a valuable asset to these organizations.\n\nIn addition to his community roles, Sarthak is a Wikimedia codebase contributor. He focuses on enhancing open-source projects within the Wikimedia environment, showcasing his commitment to the open-source community and his ability to work on large-scale, collaborative projects.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/ankit-kumar-verma-081804160/",
+      "linkedin": "https://www.linkedin.com/in/sarthak-singh-b81137201",
       "twitter": "",
-      "github": "",
+      "github": "https://github.com/SarthakSingh2003",
       "web": ""
     },
     "type": "Design"
@@ -134,7 +134,7 @@
     },
     "community_title": "",
     "image": "agamya.jpg",
-    "bio": "",
+    "bio": "Agamya Samuel is a Full Stack Developer with a strong focus on building scalable web applications. With primary expertise in JavaScript, he works extensively with technologies like Node.js, React, Next.js, Express, and PostgreSQL. Agamya's skill set extends to modern tools such as Docker and NestJS for backend development, showcasing his commitment to staying at the forefront of web technologies. His proficiency across both frontend and backend technologies allows him to create comprehensive, efficient web solutions.\nThrough his work, Agamya demonstrates a passion for crafting robust, user-friendly applications that can scale to meet diverse needs. His expertise in full-stack development positions him as a valuable asset in the ever-evolving landscape of web development.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/agamyasamuel/",
       "twitter": "",
