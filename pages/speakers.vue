@@ -31,7 +31,7 @@
 <script setup>
 const { mainData, speakersData } = useJSONData();
 
-const removeSpeakers = ["108", "109"]
+const removeSpeakers = ["108", "109", "110"]
 const filteredSpeakers = speakersData.filter(speaker => !removeSpeakers.includes(speaker.id));
 
 definePageMeta({

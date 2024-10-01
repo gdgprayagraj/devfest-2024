@@ -42,7 +42,7 @@
                 class="my-2"
                 style="text-align: left;font-size:25px;font-weight:500;color:black'line-height:15px"
               >
-                {{ props.data.title }} Details
+                {{ props.data.title }}
               </p>
               <p style="font-size: 100%">
                 <!-- <span class="mr-3">{{item.timeDuration}} Min</span> -->
