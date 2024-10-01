@@ -90,17 +90,15 @@
     {
         "id": "1007",
         "slide": "",
-        "title": "Session 4: Generative AI for Future Trends",
-        "description": "In this session, delve into the transformative potential of generative AI and its role in shaping future trends. Discover how this technology is driving innovation across industries and unlocking new possibilities for the future.",
+        "title": "Session 4: AI and Generative AI in Web Development",
+        "description": "In this session, we'll dive deep into AI and Generative AI and its potential impact on web development, highlighting real-world use cases and future trends in AI-powered web applications.",
         "track": "AI",
         "link": "",
         "time": "1:30 PM to 2:00 PM (IST)",
         "format": "Day 1",
         "date": "Oct 26, 2024",
         "timeDuration": "30",
-        "speakers": [
-            103
-        ]
+        "speakers": []
     },
     {
         "id": "1008",
