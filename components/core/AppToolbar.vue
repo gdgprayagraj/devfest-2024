@@ -60,8 +60,7 @@
           border: 1.5px solid #1e1e1e;
           color: black;
           text-transform: capitalize;
-          font-weight: 100;
-        "
+          font-w
         variant="flat"
         >COMING SOON</v-btn
       >
