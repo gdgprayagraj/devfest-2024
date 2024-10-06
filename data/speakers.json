@@ -151,5 +151,39 @@
       "github": "",
       "web": ""
     }
+  },
+  {
+    "id": "110",
+    "name": "Chinmayee Mishra",
+    "company": {
+      "name": "Women Techmakers (WTM) Ambassador",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "chinmayee.jpg",
+    "bio": "Chinmayee Mishra is a passionate Women Techmakers Ambassador, dedicated to driving inclusivity and diversity in the tech industry. With a strong presence in GDG (Google Developer Groups), Chinmayee has been a key advocate for empowering women in technology, fostering a culture of innovation, and breaking barriers. Her journey with Women Techmakers reflects her commitment to creating opportunities for underrepresented groups and inspiring the next generation of tech leaders.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "111",
+    "name": "Praveen Das",
+    "company": {
+      "name": "Open Source ",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "praveen.jpg",
+    "bio": "Praveen Das is a seasoned technologist with deep expertise in the realm of open-source AI models. As an advocate for democratizing AI, Praveen has delivered insightful talks on powerful frameworks like Gemma, TensorFlow, and other open-source tools. With a strong belief in the potential of collaborative development, his sessions focus on empowering developers to leverage these technologies for real-world applications. Praveen’s work underscores his passion for making cutting-edge AI accessible to all, inspiring developers and innovators to explore the frontiers of artificial intelligence.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
   }
 ]
