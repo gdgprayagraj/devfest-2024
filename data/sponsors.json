@@ -6,16 +6,16 @@
                 "name": "Google For Developers (GDG), Prayagraj",
                 "link": "https://gdg.community.dev/gdg-prayagraj/",
                 "logo": "googlefordevelopers.png"
-            },
+            }
+        ]
+    },
+    {
+        "category_name": "Community Sponsors",
+        "sponsors": [
             {
                 "name": "TensorFlow User Group (TFUG), Prayagraj",
                 "link": "https://www.meetup.comtensorflow-user-group-prayagraj",
                 "logo": "tfugprayagraj.png"
-            },
-            {
-                "name": "WikiTech Club",
-                "link": "https://www.wikiclubtech.org/",
-                "logo": "wikiclub.png"
             },
             {
                 "name": "Cloud Native Computing Foundation (CNCF), Greater Noida",
@@ -26,11 +26,6 @@
                 "name": "Kaggle Days, Prayagraj",
                 "link": "https://in.linkedin.com/company/kaggle-days-prayagraj",
                 "logo": "kaggle-days-prayagraj.png"
-            },
-            {
-                "name": "TechFerment",
-                "link": "https://techferment.com",
-                "logo": "techferment.png"
             }
         ]
     },
