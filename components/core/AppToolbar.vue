@@ -61,6 +61,7 @@
           color: black;
           text-transform: capitalize;
           font-weight: 100;
+        "
         variant="flat"
         >COMING SOON</v-btn
       >
