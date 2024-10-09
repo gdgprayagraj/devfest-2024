@@ -68,7 +68,7 @@
 					font-weight: 100;
 				"
 				variant="flat"
-				>Book Now</v-btn
+				>Get Your Tickets</v-btn
 			>
 		</ClientOnly>
 	</v-app-bar>
