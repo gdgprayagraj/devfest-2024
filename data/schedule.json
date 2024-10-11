@@ -47,6 +47,11 @@
             {
                 "startTime": "2:00 PM",
                 "endTime": "2:30 PM",
+                "session": 1011
+            },
+            {
+                "startTime": "4:00 PM",
+                "endTime": "",
                 "session": 1010
             }
         ]
@@ -68,6 +73,11 @@
             {
                 "startTime": "2:00 PM",
                 "endTime": "2:30 PM",
+                "session": 1012
+            },
+            {
+                "startTime": "4:00 PM",
+                "endTime": "",
                 "session": 1010
             }
         ]
