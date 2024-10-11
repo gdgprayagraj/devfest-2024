@@ -98,7 +98,9 @@
         "format": "Day 1",
         "date": "Oct 26, 2024",
         "timeDuration": "30",
-        "speakers": []
+        "speakers": [
+            101
+        ]
     },
     {
         "id": "1008",
