@@ -29,7 +29,7 @@
                 "session": 1005
             },
             {
-                "startTime": "1:00 PM",
+                "startTime": "12:30 PM",
                 "endTime": "1:30 PM",
                 "session": 1006
             },
@@ -45,11 +45,11 @@
             },
             {
                 "startTime": "2:30 PM",
-                "endTime": "3:00 PM",
+                "endTime": "2:30 PM",
                 "session": 1009
             },
             {
-                "startTime": "3:00 PM",
+                "startTime": "2:30 PM",
                 "endTime": "3:00 PM",
                 "session": 1010
             },
@@ -59,14 +59,9 @@
                 "session": 1011
             },
             {
-                "startTime": "3:30 PM",
-                "endTime": "4:00 PM",
-                "session": 1012
-            },
-            {
                 "startTime": "4:00 PM",
                 "endTime": "",
-                "session": 1013
+                "session": 1012
             }
         ]
     }
