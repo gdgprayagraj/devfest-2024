@@ -24,12 +24,12 @@
       </div>
     </template>
 
-    <v-card class="pa-0 white" v-if="dialog" style="border-radius: 12px;border: 2px solid black" >
+    <v-card class="pa-0 white" v-if="dialog" style="border-radius: 12px;border: 2px solid black; width: 660px" >
       <iframe
         v-if="props.data.link"
         class="ma-0 pa-0"
         width="100%"
-        height="455"
+        height="560"
         style="border: none"
         :src="props.data.link"
       >
