@@ -137,40 +137,6 @@
   },
   {
     "id": "109",
-    "name": "Principal Sir (United Institute of Technology)",
-    "company": {
-      "name": "",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "uit.png",
-    "bio": "",
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
-    "id": "110",
-    "name": "Chinmayee Mishra",
-    "company": {
-      "name": "Women Techmakers (WTM) Ambassador",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "chinmayee.jpg",
-    "bio": "Chinmayee Mishra is a passionate Women Techmakers Ambassador, dedicated to driving inclusivity and diversity in the tech industry. With a strong presence in GDG (Google Developer Groups), Chinmayee has been a key advocate for empowering women in technology, fostering a culture of innovation, and breaking barriers. Her journey with Women Techmakers reflects her commitment to creating opportunities for underrepresented groups and inspiring the next generation of tech leaders.",
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
-    "id": "111",
     "name": "Praveen Das",
     "company": {
       "name": "Open Source ",

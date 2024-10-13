@@ -9,31 +9,25 @@
                 "session": 1001
             },
             {
-                "startTime": "10:00 AM",
-                "endTime": "10:30 AM",
-                "session": 1002
-            },
-            {
                 "startTime": "10:30 AM",
                 "endTime": "11:00 AM",
-                "session": 1003
+                "session": 1002
             },
             {
                 "startTime": "11:00 AM",
                 "endTime": "11:30 AM",
-                "session": 1004
+                "session": 1003
             },
             {
                 "startTime": "11:30 AM",
+                "endTime": "12:00 PM",
+                "session": 1004
+            },
+            {
+                "startTime": "12:00 PM",
                 "endTime": "12:30 PM",
                 "session": 1005
-            }
-        ]
-    },
-    {
-        "day": "1",
-        "date": "Oct 26, Track 1 (Hall 1)",
-        "schedule": [
+            },
             {
                 "startTime": "1:00 PM",
                 "endTime": "1:30 PM",
@@ -47,38 +41,32 @@
             {
                 "startTime": "2:00 PM",
                 "endTime": "2:30 PM",
-                "session": 1011
-            },
-            {
-                "startTime": "4:00 PM",
-                "endTime": "",
-                "session": 1010
-            }
-        ]
-    },
-    {
-        "day": "1",
-        "date": "Oct 26, Track 2 (Hall 2)",
-        "schedule": [
-            {
-                "startTime": "1:00 PM",
-                "endTime": "1:30 PM",
                 "session": 1008
             },
             {
-                "startTime": "1:30 PM",
-                "endTime": "2:00 PM",
+                "startTime": "2:30 PM",
+                "endTime": "3:00 PM",
                 "session": 1009
             },
             {
-                "startTime": "2:00 PM",
-                "endTime": "2:30 PM",
+                "startTime": "3:00 PM",
+                "endTime": "3:00 PM",
+                "session": 1010
+            },
+            {
+                "startTime": "3:00 PM",
+                "endTime": "3:30 PM",
+                "session": 1011
+            },
+            {
+                "startTime": "3:30 PM",
+                "endTime": "4:00 PM",
                 "session": 1012
             },
             {
                 "startTime": "4:00 PM",
                 "endTime": "",
-                "session": 1010
+                "session": 1013
             }
         ]
     }
