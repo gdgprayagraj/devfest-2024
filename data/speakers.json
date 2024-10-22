@@ -52,16 +52,16 @@
   },
   {
     "id": "104",
-    "name": "Yogesh Haribhau Kulkarni",
+    "name": "Chanchal V.",
     "company": {
-      "name": "Google Developer Expert (GDE) Machine Learning",
+      "name": "Women Techmakers (WTM) Ambassador and Sr. Associate Consultant @ Infosys",
       "designation": ""
     },
-    "community_title": "TEDx Speaker and AI Coach",
-    "image": "yogesh.jpeg",
-    "bio": "Yogesh Haribhau Kulkarni is an experienced AI Coach, dedicated to helping organizations navigate and succeed in their AI journeys. With a PhD in Geometric Modeling, Yogesh brings deep technical expertise to the table, enabling innovative applications of AI across industries. A TEDx Speaker, he is also a passionate advocate for the potential of AI to transform businesses and society.",
+    "community_title": "",
+    "image": "chanchal.jpeg",
+    "bio": "Chanchal V. is a Microsoft Certified Azure Data Engineer Associate and a Senior Associate Consultant at Infosys, where she specializes in data engineering, front-end development, and cloud computing. With expertise in Azure Databricks, Azure Data Factory, HTML, CSS, and JavaScript, she designs and develops scalable data solutions and web applications for clients across industries. A passionate learner and mentor, Chanchal is also a Women Techmakers Ambassador and DSC GGGI Mentor, empowering women and students in tech while actively contributing to the growth of the tech community.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/yogeshkulkarni/",
+      "linkedin": "https://www.linkedin.com/in/chanchalv18/",
       "twitter": "",
       "github": "",
       "web": ""
@@ -97,23 +97,6 @@
     "social": {
       "linkedin": "https://in.linkedin.com/in/xprilion/",
       "twitter": "https://x.com/xprilion/",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
-    "id": "107",
-    "name": "Vrijraj Singh",
-    "company": {
-      "name": "CTO @Agprop and Google Developer Expert (GDE) Firebase",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "vrijraj.jpeg",
-    "bio": "Vrijraj Singh is a Google Developer Expert (GDE) in Firebase, specializing in WebAssembly (Wasm) and WebGPU. With a strong background in web development, he is passionate about exploring the latest web technologies and their applications in AI and machine learning. Vrijraj is also an active contributor to the developer community, sharing his expertise through workshops, talks, and articles.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "",
       "github": "",
       "web": ""
     }

@@ -30,28 +30,13 @@
         ]
     },
     {
-        "id": "1003",
-        "slide": "",
-        "title": "Session 2: Web Capabilities in AI with Baseline and Wasm",
-        "description": "Vrijraj will explain Baseline and how the latest web technologies, such as WebAssembly (Wasm) and WebGPU, enable running AI and machine learning workloads directly in the browser for enhanced performance, security, and privacy.",
-        "track": "Web",
-        "link": "/img/speaker-poster/Vrijraj-Singh.png",
-        "time": "11:00 AM to 11:30 AM (IST)",
-        "format": "Day 1",
-        "date": "Oct 26, 2024",
-        "timeDuration": "30",
-        "speakers": [
-            107
-        ]
-    },
-    {
         "id": "1004",
         "slide": "",
-        "title": "Session 3: Trust and Safety",
+        "title": "Session 2: Trust and Safety",
         "description": "Vivek will Explore the advanced mechanisms behind trust and safety at Google, keeping the web secure for billions of users every day.",
         "track": "",
         "link": "/img/speaker-poster/Vivek-Kumar.png",
-        "time": "11:30 AM to 12:00 PM (IST)",
+        "time": "11:00 AM to 11:30 AM (IST)",
         "format": "Day 1",
         "date": "Oct 26, 2024",
         "timeDuration": "30",
@@ -66,7 +51,7 @@
         "description": "Anubhav will cover how to deploy AI models in a serverless environment using Google Cloud Run with GPU, illustrating the benefits of scaling AI workloads with serverless technologies.",
         "track": "Cloud & ML",
         "link": "/img/speaker-poster/Anubhav-Singh.png",
-        "time": "12:00 PM to 12:30 PM (IST)",
+        "time": "11:30 AM to 12:00 PM (IST)",
         "format": "Day 1",
         "date": "Oct 26, 2024",
         "timeDuration": "30",
@@ -81,7 +66,7 @@
         "description": "Enjoy a delicious lunch and networking with fellow attendees, speakers, and organizers. An engaging opportunity for attendees to network and connect with speakers and fellow developers, fostering collaboration and sharing insights that extend beyond the event.",
         "track": "",
         "link": "/img/speaker-poster/food.jpg",
-        "time": "12:30 PM to 1:30 PM (IST)",
+        "time": "12:00 PM to 1:00 PM (IST)",
         "format": "Day 1",
         "date": "Oct 26, 2024",
         "timeDuration": "30",
@@ -94,7 +79,7 @@
         "description": "Unlock the vast world of knowledge with Praveen - Explore how Wikipedia and open collaboration are transforming global access to information.",
         "track": "",
         "link": "/img/speaker-poster/Praveen-Das.png",
-        "time": "1:30 PM to 2:00 PM (IST)",
+        "time": "1:00 PM to 1:30 PM (IST)",
         "format": "Day 1",
         "date": "Oct 26, 2024",
         "timeDuration": "30",
@@ -109,7 +94,7 @@
         "description": "Dhrumil will explore the integration of AI into Flutter applications, demonstrating how developers can make their mobile apps smarter and more intuitive with AI-powered features.",
         "track": "Flutter",
         "link": "/img/speaker-poster/Dhrumil-Shah.png",
-        "time": "2:00 PM to 2:30 PM (IST)",
+        "time": "1:30 PM to 2:00 PM (IST)",
         "format": "Day 1",
         "date": "Oct 26, 2024",
         "timeDuration": "30",
@@ -129,21 +114,6 @@
         "date": "Oct 26, 2024",
         "timeDuration": "",
         "speakers": []
-    },
-    {
-        "id": "1010",
-        "slide": "",
-        "title": "Session 7: Multimodal Search & Retrieval-Augmented Generation (RAGs) Powered by Google Search",
-        "description": "Yogesh will showcase the potential of Multimodal Search and RAGs (Retrieval-Augmented Generation), explaining how they can be integrated with Google Search for enhanced information retrieval and responsible AI practices.",
-        "track": "ML",
-        "link": "/img/speaker-poster/Yogesh-Harbhau-Kulkarni.png",
-        "time": "2:30 PM to 3:00 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 26, 2024",
-        "timeDuration": "30",
-        "speakers": [
-            104
-        ]
     },
     {
         "id": "1011",
