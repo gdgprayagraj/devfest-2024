@@ -51,24 +51,18 @@
 		<ClientOnly>
 			<v-btn
 				rounded
-				v-if="
-					mainData &&
-					mainData.eventInfo.registeration.link.length &&
-					new Date(mainData.eventInfo.registeration.end_date) >
-						new Date()
-				"
-				:href="mainData.eventInfo.registeration.link"
+				disabled
 				class="d-md-flex d-lg-flex d-sm-flex d-none mr-3"
 				target="_blank"
-				color="#FFD427"
+				color="#6c757d"
 				style="
 					border: 1.5px solid #1e1e1e;
-					color: black;
+					color: white;
 					text-transform: capitalize;
 					font-weight: 100;
 				"
 				variant="flat"
-				>Get Your Tickets</v-btn
+				>Coming Soon</v-btn
 			>
 		</ClientOnly>
 	</v-app-bar>
