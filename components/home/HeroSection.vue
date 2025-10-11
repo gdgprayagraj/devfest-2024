@@ -4,7 +4,7 @@
 			<v-col md="6" sm="6" cols="12">
 				<h1 class="responsive-h1 my-4">
 					DevFest <br />
-					{{ mainData.communityLocation.city }} 2024
+					{{ mainData.communityLocation.city }} 2025
 				</h1>
 				<p class="" :style="{ maxWidth: '90%' }">
 					{{ mainData.eventInfo.description.short }}
@@ -31,19 +31,14 @@
 				<v-btn
 					rounded
 					size="large"
-					color="#FFD427"
-					v-if="
-						mainData.eventInfo &&
-						mainData.eventInfo.registeration.link.length &&
-						new Date(mainData.eventInfo.registeration.end_date) >
-							new Date()
-					"
-					:href="mainData.eventInfo.registeration.link"
+					color="#6c757d"
+					disabled
+					
 					class="my-4 mt-3"
 					target="_blank"
-					style="border: 1.5px solid #1e1e1e; color: black"
+					style="border: 1.5px solid #1e1e1e; color: white"
 					variant="flat"
-					>Get Your Tickets</v-btn
+					>Coming Soon</v-btn
 				>
 			</v-col>
 			<v-col md="6" sm="6" cols="12">

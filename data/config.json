@@ -13,43 +13,43 @@
     "youtube": "https://www.youtube.com/@gdgprayagraj"
   },
   "eventInfo": {
-    "name": "DevFest Prayagraj 2024",
-    "date": "Oct 26, 2024",
+    "name": "DevFest Prayagraj 2025",
+    "date": "29 November 2025",
     "time": "9 AM - 5 PM IST",
     "venue": {
       "address": "UIT, Prayagraj",
       "map_link": "https://maps.app.goo.gl/GNhyNf9GW4S75vQK9"
     },
     "registeration": {
-      "link": "https://konfhub.com/dfprayagraj24",
-      "end_date": "2024-10-25"
+      "link": "#",
+      "end_date": "2025-10-20"
     },
     "description": {
-      "short": "Experience DevFest Prayagraj 2024 - where innovation meets the rich heritage of Prayagraj. Join us as we blend cutting-edge technology with local culture, bringing the spirit of collaboration, knowledge, and growth to the heart of the Sangam city. Let's build the future of AI, rooted in values and driven by purpose.",
-      "long": "Experience DevFest Prayagraj 2024 - where innovation meets the rich heritage of Prayagraj. Join us as we blend cutting-edge technology with local culture, bringing the spirit of collaboration, knowledge, and growth to the heart of the Sangam city. Let's build the future of AI, rooted in values and driven by purpose."
+      "short": "Experience DevFest Prayagraj 2025 - where innovation meets the rich heritage of Prayagraj. Join us as we blend cutting-edge technology with local culture, bringing the spirit of collaboration, knowledge, and growth to the heart of the Sangam city. Let's build the future of technology, rooted in values and driven by purpose.",
+      "long": "Experience DevFest Prayagraj 2025 - where innovation meets the rich heritage of Prayagraj. Join us as we blend cutting-edge technology with local culture, bringing the spirit of collaboration, knowledge, and growth to the heart of the Sangam city. Let's build the future of technology, rooted in values and driven by purpose."
     },
     "stats": [
       {
         "name": "Speakers",
-        "value": "7+",
+        "value": "10+",
         "color": "#C3ECF6",
         "image": "img/common/blue.png"
       },
       {
         "name": "Participants",
-        "value": "500+",
+        "value": "700+",
         "color": "#F8D8D8",
         "image": "img/common/pink.png"
       },
       {
         "name": "Sessions",
-        "value": "7+",
+        "value": "12+",
         "color": "#CCF6C5",
         "image": "img/common/green.png"
       },
       {
         "name": "Workshops",
-        "value": "2+",
+        "value": "10+",
         "color": "#FFE7A5",
         "image": "img/common/yellow.png"
       }
@@ -74,7 +74,7 @@
       "stats": [
         {
           "name": "Speakers",
-          "value": "5+"
+          "value": "7+"
         },
         {
           "name": "Participants",
@@ -92,7 +92,7 @@
     }
   },
   "seo": {
-    "keywords": "GDG, DevFest, Google, DevFest, GDG Prayagraj, GDG Prayagraj DevFest, GDG Prayagraj DevFest 2024",
+    "keywords": "GDG, DevFest, Google, DevFest, GDG Prayagraj, GDG Prayagraj DevFest, GDG Prayagraj DevFest 2025",
     "hostUrl": "https://devfest.gdgprayagraj.com"
   }
 }

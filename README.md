@@ -1,4 +1,4 @@
-# DevFest 2024
+# DevFest 2025
 Standard Web App for DevFest's Events. <br>
 Show some ❤️ and star the repo to support the project
 
@@ -63,7 +63,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 Awesome! We would greatly appreciate it if you could contribute to all kinds. To help smoothen the process we have a few non-exhaustive guidelines to follow which should get you going in no time.
 
 ## LICENSE
-Check out the developer [LICENSE](https://github.com/oss-labs/devfest-2024/blob/main/LICENSE)
+Check out the developer [LICENSE](https://github.com/oss-labs/devfest-2025/blob/main/LICENSE)
 
 ## Facing Any Problem or need any Help?
-Write us in the [issues](https://github.com/oss-labs/devfest-2024/issues) section. Our team will try to solve your issue within 10-12 hours.<be>
+Write us in the [issues](https://github.com/oss-labs/devfest-2025/issues) section. Our team will try to solve your issue within 10-12 hours.<be>
