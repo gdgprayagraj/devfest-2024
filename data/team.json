@@ -36,82 +36,46 @@
     "type": "Core"
   },
   {
-    "id": "6003",
-    "name": "Avarti Rastogi",
+    "id": "6008",
+    "name": "Agamya Samuel",
     "company": {
-      "name": "Management Team",
+      "name": "Core Team",
       "designation": ""
     },
     "community_title": "",
-    "image": "avarti.jpg",
-    "bio": "Avarti Rastogi is a tech enthusiast who has been an integral part of the management team of Google Developer Group (GDG) Prayagraj and TensorFlow User Group (TFUG) Prayagraj for over 1.5 years. Her commitment to technology and community building extends beyond these roles, as she has also been appointed as the GDSC co-lead and WikiClub Tech UIT co-lead. As a public speaker, Avarti has hosted numerous events, including ML bootcamps and Women Techmakers (WTM) gatherings. Her leadership skills are further exemplified by her involvement in various management teams, showcasing her ability to organize and coordinate effectively. \nAvarti's expertise and dedication have been recognized on a national level. She was selected as one of only 188 facilitators across India for the prestigious Google Cloud Arcade program, highlighting her technical knowledge and teaching abilities.",
+    "image": "agamya.png",
+    "bio": "Agamya Samuel is a Full Stack Developer with a strong focus on building scalable web applications. With primary expertise in JavaScript, he works extensively with technologies like Node.js, React, Next.js, Express, and PostgreSQL. Agamya's skill set extends to modern tools such as Docker and NestJS for backend development, showcasing his commitment to staying at the forefront of web technologies. His proficiency across both frontend and backend technologies allows him to create comprehensive, efficient web solutions.\nThrough his work, Agamya demonstrates a passion for crafting robust, user-friendly applications that can scale to meet diverse needs. His expertise in full-stack development positions him as a valuable asset in the ever-evolving landscape of web development.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/avarti-rastogi/",
+      "linkedin": "https://www.linkedin.com/in/agamyasamuel/",
       "twitter": "",
-      "github": "https://github.com/avartirastogi",
-      "web": "https://avartirastogi.wixsite.com/my-portfolio"
+      "github": "https://github.com/Agamya-Samuel/",
+      "web": "https://agamya.dev/"
     },
-    "type": "Management"
-  },
-  {
-    "id": "6004",
-    "name": "Anjali Mishra",
-    "company": {
-      "name": "Operations & Management Team",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "anjali.jpg",
-    "bio": "Anjali Mishra is a passionate third-year computer science student with a keen interest in the exciting world of machine learning and computer vision. As a committed GDG Core team member and event manager at TFUG Prayagraj, she thrives on bringing tech enthusiasts together and exploring the latest innovations shaping our future. She is an active open-source contributor, leveraging her skills to collaborate on projects that make a difference in the developer community. \nAnjali's involvement in open-source initiatives not only enhances her technical abilities but also demonstrates her commitment to the ethos of knowledge sharing and collective growth in the tech ecosystem. Through her roles in GDG and TFUG, combined with her open-source contributions, Anjali continues to foster a vibrant tech community while honing her expertise in cutting-edge technologies.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/anjali-mishra-606b94241/",
-      "twitter": "",
-      "github": "https://github.com/Anjali-mish",
-      "web": ""
-    },
-    "type": "Management"
-  },
-  {
-    "id": "6005",
-    "name": "Gauri Gupta",
-    "company": {
-      "name": "Management Team",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "gauri.jpg",
-    "bio": "Gauri Gupta is a software engineer and web developer, currently interning at Impulsive Web. Her expertise extends beyond her professional role, as she actively contributes to various tech communities and organizations.\nAs a management team member of GDG Prayagraj and a co-organizer of Cloud Native Computing Foundation, she helps promote and advance cloud native technologies.\nGauri's commitment to knowledge sharing and collaboration is evident through her active membership in the WikiClub Tech - UIT. She also serves as an event manager for the SIET Coding Club.\nWith strong skills in full-stack development, project management, blogging, and research analytics, Gauri brings a diverse and valuable skill set to her roles.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/gauri-gupta-628b7a241/",
-      "twitter": "",
-      "github": "https://github.com/GauriGupta21",
-      "web": ""
-    },
-    "type": "Management"
+    "type": "Core"
   },
   {
     "id": "6006",
     "name": "Aditya Kumar",
     "company": {
-      "name": "Design Team",
+      "name": "Core Team",
       "designation": ""
     },
     "community_title": "",
     "image": "aditya.jpg",
-    "bio": "Aditya Kumar is an active member of the Google Developer Group core team and a passionate contributor to WIKI projects. A skilled Java developer and AI/ML enthusiast, he is dedicated to exploring cutting-edge technologies. With strong team management skills and a flair for graphic design, Aditya also serves as a College Ambassador, helping to bridge the gap between students and the tech community.",
+    "bio": "Aditya Kumar is an active member of the Google Developer Group core team and a passionate contributor to WIKI projects.CTO(Volunteer) @English Learners, A skilled Java developer and AI/ML enthusiast, he is dedicated to exploring cutting-edge technologies. With strong team management skills and a flair for graphic design, Aditya also serves as a College Ambassador, helping to bridge the gap between students and the tech community.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/aditya0545",
       "twitter": "https://x.com/InspiringKing45",
       "github": "https://github.com/Aditya0545",
       "web": ""
     },
-    "type": "Design"
+    "type": "Core"
   },
   {
     "id": "6007",
     "name": "Sarthak Singh",
     "company": {
-      "name": "Management & Design Team",
+      "name": "Core Team",
       "designation": ""
     },
     "community_title": "",
@@ -123,24 +87,79 @@
       "github": "https://github.com/SarthakSingh2003",
       "web": ""
     },
-    "type": "Design"
+    "type": "Core"
   },
   {
-    "id": "6008",
-    "name": "Agamya Samuel",
+    "id": "6003",
+    "name": "Avarti Rastogi",
     "company": {
       "name": "Core Team",
       "designation": ""
     },
     "community_title": "",
-    "image": "agamya.jpg",
-    "bio": "Agamya Samuel is a Full Stack Developer with a strong focus on building scalable web applications. With primary expertise in JavaScript, he works extensively with technologies like Node.js, React, Next.js, Express, and PostgreSQL. Agamya's skill set extends to modern tools such as Docker and NestJS for backend development, showcasing his commitment to staying at the forefront of web technologies. His proficiency across both frontend and backend technologies allows him to create comprehensive, efficient web solutions.\nThrough his work, Agamya demonstrates a passion for crafting robust, user-friendly applications that can scale to meet diverse needs. His expertise in full-stack development positions him as a valuable asset in the ever-evolving landscape of web development.",
+    "image": "avarti.jpg",
+    "bio": "Avarti Rastogi is a tech enthusiast who has been an integral part of the management team of Google Developer Group (GDG) Prayagraj and TensorFlow User Group (TFUG) Prayagraj for over 1.5 years. Her commitment to technology and community building extends beyond these roles, as she has also been appointed as the GDSC co-lead and WikiClub Tech UIT co-lead. As a public speaker, Avarti has hosted numerous events, including ML bootcamps and Women Techmakers (WTM) gatherings. Her leadership skills are further exemplified by her involvement in various management teams, showcasing her ability to organize and coordinate effectively. \nAvarti's expertise and dedication have been recognized on a national level. She was selected as one of only 188 facilitators across India for the prestigious Google Cloud Arcade program, highlighting her technical knowledge and teaching abilities.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/agamyasamuel/",
+      "linkedin": "https://www.linkedin.com/in/avarti-rastogi/",
       "twitter": "",
-      "github": "https://github.com/Agamya-Samuel/",
-      "web": "https://agamya.dev/"
+      "github": "https://github.com/avartirastogi",
+      "web": "https://avartirastogi.wixsite.com/my-portfolio"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6004",
+    "name": "Anjali Mishra",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "anjali.jpg",
+    "bio": "Anjali Mishra is a passionate third-year computer science student with a keen interest in the exciting world of machine learning and computer vision. As a committed GDG Core team member and event manager at TFUG Prayagraj, she thrives on bringing tech enthusiasts together and exploring the latest innovations shaping our future. She is an active open-source contributor, leveraging her skills to collaborate on projects that make a difference in the developer community. \nAnjali's involvement in open-source initiatives not only enhances her technical abilities but also demonstrates her commitment to the ethos of knowledge sharing and collective growth in the tech ecosystem. Through her roles in GDG and TFUG, combined with her open-source contributions, Anjali continues to foster a vibrant tech community while honing her expertise in cutting-edge technologies.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/anjali-mishra-606b94241/",
+      "twitter": "",
+      "github": "https://github.com/Anjali-mish",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6005",
+    "name": "Mohd Shadab",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "mohd-sadab.jpg",
+    "bio": "MERN Stack Developer & Machine Learning Practitioner.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mohdshadabdev/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+    {
+    "id": "6005",
+    "name": "Anshuman Rai",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "anshuman.jpg",
+    "bio": "MERN Stack Developer & Machine Learning Practitioner.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/anshuman-rai-0433032b9/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     },
     "type": "Core"
   }
+  
 ]
