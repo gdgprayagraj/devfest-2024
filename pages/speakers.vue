@@ -9,6 +9,7 @@
             various communities within their organizations, cities, countries,
             and beyond, making a significant impact through their contributions
             and support. -->
+            Speakers will be revealed soon.
           </p>
         </v-col>
       </v-row>
