@@ -98,11 +98,11 @@ var tech = ref([
     link: "https://developers.google.com/maps",
     logo: "https://developers.google.com/static/maps/images/maps-icon.svg",
   },
-  {
-    name: "Google Pay & Google Wallet",
-    link: "https://developers.google.com/wallet",
-    logo: "https://developers.google.com/static/wallet/images/wallet-icon.png",
-  },
+  // {
+  //   name: "Google Pay & Google Wallet",
+  //   link: "https://developers.google.com/wallet",
+  //   logo: "https://developers.google.com/static/wallet/images/wallet-icon.png",
+  // },
   {
     name: "Google Play",
     link: "https://play.google.com/console/about/",
@@ -111,7 +111,12 @@ var tech = ref([
   {
     name: "TensorFlow",
     link: "https://www.tensorflow.org/",
-    logo: "https://www.gstatic.com/devrel-devsite/prod/v20ab951cf37b43fc7a428ae75ce91d8269f391204ca16525bc8a5ececea0ab56/tensorflow/images/apple-touch-icon-180x180.png",
+    logo: "https://developers.google.com/static/site-assets/logo-tensorflow.svg",
+  },
+  {
+    name: "Gemini",
+    link: "https://gemini.google.com/",
+    logo: "https://gemini.google/images/spark_4c.png",
   },
 ]);
 </script>
