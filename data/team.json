@@ -90,42 +90,6 @@
     "type": "Core"
   },
   {
-    "id": "6003",
-    "name": "Avarti Rastogi",
-    "company": {
-      "name": "Core Team",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "avarti.jpg",
-    "bio": "Avarti Rastogi is a tech enthusiast who has been an integral part of the management team of Google Developer Group (GDG) Prayagraj and TensorFlow User Group (TFUG) Prayagraj for over 1.5 years. Her commitment to technology and community building extends beyond these roles, as she has also been appointed as the GDSC co-lead and WikiClub Tech UIT co-lead. As a public speaker, Avarti has hosted numerous events, including ML bootcamps and Women Techmakers (WTM) gatherings. Her leadership skills are further exemplified by her involvement in various management teams, showcasing her ability to organize and coordinate effectively. \nAvarti's expertise and dedication have been recognized on a national level. She was selected as one of only 188 facilitators across India for the prestigious Google Cloud Arcade program, highlighting her technical knowledge and teaching abilities.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/avarti-rastogi/",
-      "twitter": "",
-      "github": "https://github.com/avartirastogi",
-      "web": "https://avartirastogi.wixsite.com/my-portfolio"
-    },
-    "type": "Core"
-  },
-  {
-    "id": "6004",
-    "name": "Anjali Mishra",
-    "company": {
-      "name": "Core Team",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "anjali.jpg",
-    "bio": "Anjali Mishra is a passionate third-year computer science student with a keen interest in the exciting world of machine learning and computer vision. As a committed GDG Core team member and event manager at TFUG Prayagraj, she thrives on bringing tech enthusiasts together and exploring the latest innovations shaping our future. She is an active open-source contributor, leveraging her skills to collaborate on projects that make a difference in the developer community. \nAnjali's involvement in open-source initiatives not only enhances her technical abilities but also demonstrates her commitment to the ethos of knowledge sharing and collective growth in the tech ecosystem. Through her roles in GDG and TFUG, combined with her open-source contributions, Anjali continues to foster a vibrant tech community while honing her expertise in cutting-edge technologies.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/anjali-mishra-606b94241/",
-      "twitter": "",
-      "github": "https://github.com/Anjali-mish",
-      "web": ""
-    },
-    "type": "Core"
-  },
-  {
     "id": "6005",
     "name": "Mohd Shadab",
     "company": {
