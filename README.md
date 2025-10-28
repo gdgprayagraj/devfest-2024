@@ -1,4 +1,5 @@
-# DevFest 2025
+# DevFest 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud
+
 Standard Web App for DevFest's Events. <br>
 Show some ❤️ and star the repo to support the project
 
@@ -24,8 +25,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 1. Update the `Firebase Project ID` in `.firebasesrc` file. This value should match the project ID in your Project Settings of the Firebase project you created in the previous section.
 1. Go to the Firebase Console Dashboard and Click on Hosting in the left navigation.
 1. Click on Get Started
-1. Click through all steps till you’re taken to the Hosting page in the console.
-1. You’ll be provided with a ready domain with your project ID. It should look like - `<project-id>.web.app or <project-id>.firebaseapp.com`
+1. Click through all steps till you're taken to the Hosting page in the console.
+1. You'll be provided with a ready domain with your project ID. It should look like - `<project-id>.web.app or <project-id>.firebaseapp.com`
 1. Copy the sub-domain name of the URL provided. In this case, it will be the project ID. However, to be precise, you have to copy the part before .web.aap or .firebaseapp.com. This is your Site ID
 1. Update `Firebase.json` file, set the site key to Site ID
     ```js

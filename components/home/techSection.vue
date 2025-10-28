@@ -6,9 +6,10 @@
           style="background-color: #eeeeee; border-radius: 20px;border: 1.5px solid black;"
           class="pa-8"
         >
-          <h1>Stay updated on the products you love</h1>
+          <h1>Building Safe, Secure and Scalable Solutions with AI and Cloud</h1>
           <p>
-            This DevFest we are focusing on the technologies that are trending in the market and are in demand. Let's come together and learn about these technologies from industry leading experts.
+            This DevFest we are focusing on the technologies that enable safe, secure, and scalable solutions with AI and Cloud. 
+            Let's come together and learn about these technologies from industry leading experts.
           </p>
           <v-container fluid>
             <v-row justify-start align="start">

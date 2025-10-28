@@ -14,11 +14,11 @@
             <v-col md="5" sm="6" cols="12">
               <h1 style="line-height: normal;">
                 Keep in touch with {{ mainData.communityName }} for the latest
-                announcements
+                announcements about DevFest 2025
               </h1>
               <p class="mb-3">
                 Stake out #{{ mainData.communityName }} for the latest updates
-                and news.
+                and news about building safe, secure, and scalable solutions with AI and Cloud.
               </p>
 
               <CommonSpeakerSocialButton
