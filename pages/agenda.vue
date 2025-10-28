@@ -8,6 +8,7 @@
             <!-- Follow code demonstrations by our expert speakers on different
             tracks. Check out the schedule below and don't forget to mark your
             calendar so that you don't miss out on any sessions. -->
+            Agenda will be updated soon.
           </p>
         </v-col>
       </v-row>
