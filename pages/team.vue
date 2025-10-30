@@ -1,6 +1,7 @@
 <template>
   <NuxtLayout name="default">
     <v-container fluid class="mt-5">
+      <!-- Core Team Section -->
       <v-row>
         <v-col md="12">
           <h1>Core Team</h1>
@@ -14,7 +15,39 @@
         </v-col>
       </v-row>
       <v-row>
-        <v-col md="2" sm="3" cols="6" v-for="(item, index) in teamData" :key="index">
+        <v-col md="2" sm="3" cols="6" v-for="(item, index) in coreTeam" :key="index">
+          <common-team-card :data="item" />
+        </v-col>
+      </v-row>
+
+      <!-- Volunteers Section -->
+      <v-row class="mt-8">
+        <v-col md="12">
+          <h1>Volunteers</h1>
+          <p>
+            Our dedicated volunteers contribute their time and skills to make our events successful.
+            They assist with various activities including registration, logistics, and participant support.
+          </p>
+        </v-col>
+      </v-row>
+      <v-row>
+        <v-col md="2" sm="3" cols="6" v-for="(item, index) in volunteers" :key="index">
+          <common-team-card :data="item" />
+        </v-col>
+      </v-row>
+
+      <!-- Point of Contact Section -->
+      <v-row class="mt-8">
+        <v-col md="12">
+          <h1>Point of Contact</h1>
+          <p>
+            For any inquiries or assistance, please reach out to our designated contacts.
+            We're here to help and provide information about our events and community activities.
+          </p>
+        </v-col>
+      </v-row>
+      <v-row>
+        <v-col md="2" sm="3" cols="6" v-for="(item, index) in pointOfContact" :key="index">
           <common-team-card :data="item" />
         </v-col>
       </v-row>
@@ -26,6 +59,19 @@
 const { teamData, mainData } = useJSONData();
 definePageMeta({
   layout: false,
+});
+
+// Filter team members by type
+const coreTeam = computed(() => {
+  return teamData.filter(member => member.type === 'Core');
+});
+
+const volunteers = computed(() => {
+  return teamData.filter(member => member.type === 'Volunteer');
+});
+
+const pointOfContact = computed(() => {
+  return teamData.filter(member => member.type === 'Point of Contact');
 });
 
 useSeoMeta({
