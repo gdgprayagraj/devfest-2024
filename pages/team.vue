@@ -3,7 +3,7 @@
     <v-container fluid class="mt-5">
       <v-row>
         <v-col md="12">
-          <h1>Team</h1>
+          <h1>Core Team</h1>
           <p>
             Our mission is to equip our community members with practical skills,
             enabling them to communicate their insights and drive innovative
