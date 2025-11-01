@@ -20,7 +20,7 @@
               <h2 class="text-h4 text-md-h2 mb-6">Join the GEN-AI Hackathon Prayagraj</h2>
               
               <p class="text-h5 mb-4">
-                A 7-hour power-packed challenge by TFUG Prayagraj where creativity meets the future of AI! 🌐⚙️
+                A 7-hour power-packed challenge where creativity meets the future of AI! 🌐⚙️
               </p>
               
               <p class="text-h5 mb-6">
