@@ -50,12 +50,12 @@
                   </v-card>
                 </v-col>
                 
-                <v-col md="4" sm="6" cols="12">
+                <!-- <v-col md="4" sm="6" cols="12">
                   <v-card class="pa-4" style="border: 1px solid black; border-radius: 15px;">
                     <v-card-title class="text-h5">Organized By</v-card-title>
                     <v-card-text class="text-h6">TFUG Prayagraj</v-card-text>
                   </v-card>
-                </v-col>
+                </v-col> -->
                 
                 <v-col md="4" sm="6" cols="12">
                   <v-card class="pa-4" style="border: 1px solid black; border-radius: 15px;">
