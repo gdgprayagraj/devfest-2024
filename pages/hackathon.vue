@@ -4,7 +4,7 @@
       <v-row justify="center">
         <v-col md="8" cols="12">
           <div class="text-center">
-            <h1 class="text-h2 font-weight-bold mb-4">🚀 Get ready to innovate with intelligence! 💡</h1>
+            <h1 class="text-h4 text-md-h2 font-weight-bold mb-4">Get ready to innovate with intelligence! </h1>
             
             <!-- Hackathon Poster Image -->
             <v-img
@@ -17,7 +17,7 @@
             ></v-img>
             
             <div class="hackathon-card pa-8 my-8" style="background-color: #eeeeee; border-radius: 20px; border: 1.5px solid black;">
-              <h2 class="text-h3 mb-6">Join the GEN-AI Hackathon Prayagraj</h2>
+              <h2 class="text-h4 text-md-h2 mb-6">Join the GEN-AI Hackathon Prayagraj</h2>
               
               <p class="text-h5 mb-4">
                 A 7-hour power-packed challenge by TFUG Prayagraj where creativity meets the future of AI! 🌐⚙️
