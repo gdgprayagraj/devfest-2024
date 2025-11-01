@@ -6,7 +6,7 @@
         <p>
           At DevFest 2025, we're focusing on building safe, secure, and scalable solutions with AI and Cloud technologies. 
           This annual event hosted by the Google Developers Group brings together developers to explore cutting-edge technologies 
-          through lightning talks, sessions, and workshops.
+          through lightning talks, sessions, and <strong>hands-on workshops</strong>.
         </p>
       </v-col>
       <v-col
