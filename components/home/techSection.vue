@@ -54,29 +54,34 @@
 const { mainData } = useJSONData();
 var tech = ref([
   {
+    name: "Google Cloud",
+    link: "https://cloud.google.com/",
+    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/cloud/images/favicons/onecloud/super_cloud.png",
+  },
+  {
     name: "Android",
     link: "https://developer.android.com/",
     logo: "https://developer.android.com/static/images/android-logo.svg",
   },
   {
-    name: "Google Checks",
-    link: "https://checks.google.com/",
-    logo: "https://developers.google.com/static/checks/images/Checks_Icon_2880.png",
+    name: "Gemini",
+    link: "https://gemini.google.com/",
+    logo: "https://gemini.google/images/spark_4c.png",
   },
   {
-    name: "ARCore",
-    link: "https://developers.google.com/ar",
-    logo: "https://developers.google.com/static/ar/images/logo.svg",
-  },
-  {
-    name: "Google Chrome",
-    link: "https://www.google.com/chrome/",
-    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/chrome/images/touchicon-180.png",
+    name: "Google Agent Development Kit (ADK)",
+    link: "https://developers.google.com/agent-development-kit",
+    logo: "https://google.github.io/adk-docs/assets/agent-development-kit.png",
   },
   {
     name: "Google AI Studio",
     link: "https://aistudio.google.com/",
     logo: "https://developers.google.com/static/focus/images/ai-studio-icon_2880.png",
+  },
+  {
+    name: "TensorFlow",
+    link: "https://www.tensorflow.org/",
+    logo: "https://developers.google.com/static/site-assets/logo-tensorflow.svg",
   },
   {
     name: "Firebase",
@@ -89,9 +94,19 @@ var tech = ref([
     logo: "https://developers.google.com/static/site-assets/logo-flutter.svg",
   },
   {
-    name: "Google Cloud",
-    link: "https://cloud.google.com/",
-    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/cloud/images/favicons/onecloud/super_cloud.png",
+    name: "Google Checks",
+    link: "https://checks.google.com/",
+    logo: "https://developers.google.com/static/checks/images/Checks_Icon_2880.png",
+  },
+  // {
+  //   name: "ARCore",
+  //   link: "https://developers.google.com/ar",
+  //   logo: "https://developers.google.com/static/ar/images/logo.svg",
+  // },
+  {
+    name: "Google Chrome",
+    link: "https://www.google.com/chrome/",
+    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/chrome/images/touchicon-180.png",
   },
   {
     name: "Google Maps",
@@ -107,16 +122,6 @@ var tech = ref([
     name: "Google Play",
     link: "https://play.google.com/console/about/",
     logo: "https://fonts.gstatic.com/s/i/productlogos/play_games/v4/web-64dp/logo_play_games_color_1x_web_64dp.png",
-  },
-  {
-    name: "TensorFlow",
-    link: "https://www.tensorflow.org/",
-    logo: "https://developers.google.com/static/site-assets/logo-tensorflow.svg",
-  },
-  {
-    name: "Gemini",
-    link: "https://gemini.google.com/",
-    logo: "https://gemini.google/images/spark_4c.png",
   },
 ]);
 </script>
