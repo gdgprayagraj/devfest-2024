@@ -49,6 +49,10 @@
 				></v-img>
 			</v-col>
 		</v-row>
+
+		<v-alert type="info" variant="tonal" class="my-4" style="font-size: 1.1em;">
+			<strong>New for 2025:</strong> This year, DevFest Prayagraj is not just speaker-led sessions, but also includes <strong>hands-on workshops!</strong> Don't miss out on the chance to learn, grow, and connect with the developer community!
+		</v-alert>
 	</v-container>
 </template>
 
