@@ -51,18 +51,18 @@
 		<ClientOnly>
 			<v-btn
 				rounded
-				disabled
 				class="d-md-flex d-lg-flex d-sm-flex d-none mr-3"
 				target="_blank"
-				color="#6c757d"
+				color="yellow"
 				style="
 					border: 1.5px solid #1e1e1e;
-					color: white;
+					color: black;
 					text-transform: capitalize;
 					font-weight: 100;
 				"
 				variant="flat"
-				>Coming Soon</v-btn
+				href="https://konfhub.com/devfest-prayagraj-2025"
+				>Register Here</v-btn
 			>
 		</ClientOnly>
 	</v-app-bar>
