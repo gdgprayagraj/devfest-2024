@@ -1,16 +1,16 @@
 [
   {
     "id": "101",
-    "name": "Nishant Welpulwar",
+    "name": "Aushotosh Bhakre",
     "company": {
-      "name": "AI Consultant @Google",
+      "name": "GDG Expert in Cloud",
       "designation": ""
     },
     "community_title": "",
-    "image": "nishant.jpg",
-    "bio": "Nishant Welpulwar is a leading expert in Artificial Intelligence, specializing in Generative AI at Google. With a deep understanding of AI technologies, Nishant has contributed to cutting-edge projects that leverage machine learning and advanced AI models. His expertise in Google Cloud Platform (GCP) has empowered businesses to harness the power of AI for transformative solutions.As a mentor, Nishant is passionate about guiding the next generation of AI enthusiasts, helping them navigate the complex landscape of technology and innovation. His work not only bridges the gap between AI theory and practical applications but also inspires others to explore new frontiers in artificial intelligence.",
+    "image": "",
+    "bio": "",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/nishantwelpulwar/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
@@ -18,16 +18,16 @@
   },
   {
     "id": "102",
-    "name": "Dhrumil Shah",
+    "name": "Praveen Das",
     "company": {
-      "name": "Lead Architect & Front End Architect @Tata Digital and Google Developer Expert (GDE) Flutter ",
+      "name": "Open Source - Lead Partnership Manager South Asia - Wikimedia Foundation",
       "designation": ""
     },
-    "community_title": "Co-organizer, GDG Ahmedabad",
-    "image": "dhrumil.jpeg",
-    "bio": "Dhrumil Shah is the Lead Architect at TATA Digital and a Google Developer Expert (GDE) for Flutter & Dart. As a co-organizer of GDG Ahmedabad and a startup mentor, he plays a crucial role in shaping the developer ecosystem. Dhrumil is also an industry speaker and an active member of several advisory boards, sharing his insights and expertise on technology and innovation.",
+    "community_title": "",
+    "image": "praveen.jpg",
+    "bio": "Praveen Das is a seasoned technologist with deep expertise in the realm of open-source AI models. As an advocate for democratizing AI, Praveen has delivered insightful talks on powerful frameworks like Gemma, TensorFlow, and other open-source tools. With a strong belief in the potential of collaborative development, his sessions focus on empowering developers to leverage these technologies for real-world applications. Praveen’s work underscores his passion for making cutting-edge AI accessible to all, inspiring developers and innovators to explore the frontiers of artificial intelligence.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/dhuma1981/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
@@ -35,16 +35,16 @@
   },
   {
     "id": "103",
-    "name": "Nitin Tiwari",
+    "name": "Anubhav Singh",
     "company": {
-      "name": "Associate Data Scientist @Colgate and Google Developer Expert (GDE) Machine Learning",
+      "name": "GDE AI & Cloud",
       "designation": ""
     },
     "community_title": "",
-    "image": "nitin.jpeg",
-    "bio": "Nitin Tiwari is an Associate Data Scientist at Colgate-Palmolive India Ltd. and a recognized Google Developer Expert (GDE) in Machine Learning. With a strong background in data science and machine learning, he helps drive innovative solutions in his field. Nitin is passionate about leveraging AI technologies to solve real-world problems and is an active contributor to the developer community.",
+    "image": "",
+    "bio": "",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/tiwari-nitin/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
@@ -52,16 +52,16 @@
   },
   {
     "id": "104",
-    "name": "Chanchal V.",
+    "name": "Usha Rengaraju",
     "company": {
-      "name": "Women Techmakers (WTM) Ambassador and Sr. Associate Consultant @ Infosys",
+      "name": "GDE for AI",
       "designation": ""
     },
     "community_title": "",
-    "image": "chanchal.jpeg",
-    "bio": "Chanchal V. is a Microsoft Certified Azure Data Engineer Associate and a Senior Associate Consultant at Infosys, where she specializes in data engineering, front-end development, and cloud computing. With expertise in Azure Databricks, Azure Data Factory, HTML, CSS, and JavaScript, she designs and develops scalable data solutions and web applications for clients across industries. A passionate learner and mentor, Chanchal is also a Women Techmakers Ambassador and DSC GGGI Mentor, empowering women and students in tech while actively contributing to the growth of the tech community.",
+    "image": "",
+    "bio": "",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/chanchalv18/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
@@ -69,16 +69,16 @@
   },
   {
     "id": "105",
-    "name": "Vivek Kumar",
+    "name": "Vrijraj Singh",
     "company": {
-      "name": "Ensuring Trust and Safety @Google",
+      "name": "GDE for AI & Cloud",
       "designation": ""
     },
     "community_title": "",
-    "image": "vivek.jpeg",
-    "bio": "Vivek Kumar leads Trust and Safety project management for Google’s News division, ensuring the integrity and security of content across the platform. With a strong focus on community management and entrepreneurial ventures, Vivek is dedicated to fostering safe and reliable digital ecosystems. His work reflects a commitment to maintaining trust in the ever-evolving digital landscape.",
+    "image": "vrijraj.jpeg",
+    "bio": "",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/fifa/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
@@ -86,48 +86,31 @@
   },
   {
     "id": "106",
-    "name": "Anubhav Singh",
+    "name": "Pankaj Rai",
     "company": {
-      "name": "Co-Founder @Callchimp.ai and Google Developer Expert (GDE) Machine Learning and Cloud technologies",
+      "name": "GDE for Android & Firebase",
       "designation": ""
     },
     "community_title": "",
-    "image": "anubhav.jpeg",
-    "bio": "Anubhav Singh is the co-founder of Callchimp.ai and a Google Developer Expert (GDE) in Machine Learning and Cloud technologies. A seasoned tech generalist, Anubhav has authored two books on Deep Learning and frequently shares his insights as a TEDx speaker. His expertise spans multiple domains, making him a leader in leveraging AI and cloud solutions for impactful innovation.",
+    "image": "",
+    "bio": "",
     "social": {
-      "linkedin": "https://in.linkedin.com/in/xprilion/",
-      "twitter": "https://x.com/xprilion/",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
-    "id": "108",
-    "name": "Ankit Kumar Verma",
-    "company": {
-      "name": "Organizer @ GDG Prayagraj and Project Coordinator @ IIIT Hyderabad [WIKI Club Tech]",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "ankit.jpeg",
-    "bio": "Ankit Kumar Verma is a dynamic and accomplished project coordinator with extensive experience in leading technology-driven initiatives. As the Organizer of Google Developer Group (GDG) Prayagraj and TensorFlow User Group (TFUG) Prayagraj, he plays a pivotal role in organizing events that foster collaboration and learning among developers. Ankit's contributions extend to the Cloud Native Computing Foundation (CNCF) and his work as a consultant at Ping, where he provides expert guidance on tech solutions. Beyond his professional roles, Ankit is a Google Crowdsource contributor and Google Search Notes enthusiast, reflecting his commitment to expanding the knowledge ecosystem. As an ambassador for UNEP-TUNZA, he advocates for sustainable technology and environmental initiatives globally. He is also an author, with several contributions to tech literature, and holds a world record for his achievements.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/ankit-kumar-verma-081804160/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
     }
   },
   {
-    "id": "109",
-    "name": "Praveen Das",
+    "id": "107",
+    "name": "Jay Thakkar",
     "company": {
-      "name": "Open Source ",
+      "name": "GDE for AI",
       "designation": ""
     },
     "community_title": "",
-    "image": "praveen.jpg",
-    "bio": "Praveen Das is a seasoned technologist with deep expertise in the realm of open-source AI models. As an advocate for democratizing AI, Praveen has delivered insightful talks on powerful frameworks like Gemma, TensorFlow, and other open-source tools. With a strong belief in the potential of collaborative development, his sessions focus on empowering developers to leverage these technologies for real-world applications. Praveen’s work underscores his passion for making cutting-edge AI accessible to all, inspiring developers and innovators to explore the frontiers of artificial intelligence.",
+    "image": "",
+    "bio": "",
     "social": {
       "linkedin": "",
       "twitter": "",
