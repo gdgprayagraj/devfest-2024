@@ -5,16 +5,16 @@
         <v-col md="12">
           <h1>Speakers</h1>
           <p>
-            <!-- Our speakers are influential leaders and allies actively involved in
+            Our speakers are influential leaders and allies actively involved in
             various communities within their organizations, cities, countries,
             and beyond, making a significant impact through their contributions
-            and support. -->
-            Speakers will be revealed soon.
+            and support.
+            <!-- Speakers will be revealed soon. -->
           </p>
         </v-col>
       </v-row>
 
-      <!-- <v-row>
+      <v-row>
         <v-col
           md="2"
           cols="6"
@@ -24,7 +24,7 @@
         >
           <common-speaker-card :data="item" />
         </v-col>
-      </v-row> -->
+      </v-row>
     </v-container>
   </NuxtLayout>
 </template>
@@ -32,7 +32,7 @@
 <script setup>
 const { mainData, speakersData } = useJSONData();
 
-const removeSpeakers = ["103", "104"]
+const removeSpeakers = []
 const filteredSpeakers = speakersData.filter(speaker => !removeSpeakers.includes(speaker.id));
 
 definePageMeta({
