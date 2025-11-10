@@ -5,12 +5,14 @@
         <v-col md="12">
           <h1>Agenda</h1>
           <p>
-            Follow code demonstrations by our expert speakers on different
+            <!-- Follow code demonstrations by our expert speakers on different
             tracks. Check out the schedule below and don't forget to mark your
-            calendar so that you don't miss out on any sessions.
+            calendar so that you don't miss out on any sessions. -->
+            Agenda will be updated soon.
           </p>
         </v-col>
       </v-row>
+      <!-- 
       <ClientOnly>
         <v-row class="mb-7">
           <v-col>
@@ -44,6 +46,7 @@
           </v-col>
         </v-row>
       </ClientOnly>
+      -->
     </v-container>
   </NuxtLayout>
 </template>

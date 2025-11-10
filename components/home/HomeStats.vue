@@ -53,6 +53,12 @@
         </v-container>
       </v-col>
     </v-row>
+    
+    <v-row class="mt-5">
+      <v-col md="12" class="text-center">
+        <h2>Building Safe, Secure and Scalable Solutions with AI and Cloud</h2>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 

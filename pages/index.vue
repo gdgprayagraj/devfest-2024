@@ -17,6 +17,10 @@
         <!-- Technologies -->
         <HomeTechSection class="mb-md-10" />
         <!-- Technologies -->
+        
+        <!-- Hands on Sessions -->
+        <HomeHandsOnSession class="mb-md-10" />
+        <!-- Hands on Sessions -->
 
         <!-- Past DevFest -->
         <HomePastDevFest class="mb-md-10" />

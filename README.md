@@ -1,4 +1,5 @@
-# DevFest 2024
+# DevFest 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud
+
 Standard Web App for DevFest's Events. <br>
 Show some ❤️ and star the repo to support the project
 
@@ -24,8 +25,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 1. Update the `Firebase Project ID` in `.firebasesrc` file. This value should match the project ID in your Project Settings of the Firebase project you created in the previous section.
 1. Go to the Firebase Console Dashboard and Click on Hosting in the left navigation.
 1. Click on Get Started
-1. Click through all steps till you’re taken to the Hosting page in the console.
-1. You’ll be provided with a ready domain with your project ID. It should look like - `<project-id>.web.app or <project-id>.firebaseapp.com`
+1. Click through all steps till you're taken to the Hosting page in the console.
+1. You'll be provided with a ready domain with your project ID. It should look like - `<project-id>.web.app or <project-id>.firebaseapp.com`
 1. Copy the sub-domain name of the URL provided. In this case, it will be the project ID. However, to be precise, you have to copy the part before .web.aap or .firebaseapp.com. This is your Site ID
 1. Update `Firebase.json` file, set the site key to Site ID
     ```js
@@ -63,7 +64,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 Awesome! We would greatly appreciate it if you could contribute to all kinds. To help smoothen the process we have a few non-exhaustive guidelines to follow which should get you going in no time.
 
 ## LICENSE
-Check out the developer [LICENSE](https://github.com/oss-labs/devfest-2024/blob/main/LICENSE)
+Check out the developer [LICENSE](https://github.com/oss-labs/devfest-2025/blob/main/LICENSE)
 
 ## Facing Any Problem or need any Help?
-Write us in the [issues](https://github.com/oss-labs/devfest-2024/issues) section. Our team will try to solve your issue within 10-12 hours.<be>
+Write us in the [issues](https://github.com/oss-labs/devfest-2025/issues) section. Our team will try to solve your issue within 10-12 hours.<be>

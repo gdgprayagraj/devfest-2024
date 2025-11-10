@@ -51,16 +51,9 @@
 		<ClientOnly>
 			<v-btn
 				rounded
-				v-if="
-					mainData &&
-					mainData.eventInfo.registeration.link.length &&
-					new Date(mainData.eventInfo.registeration.end_date) >
-						new Date()
-				"
-				:href="mainData.eventInfo.registeration.link"
 				class="d-md-flex d-lg-flex d-sm-flex d-none mr-3"
 				target="_blank"
-				color="#FFD427"
+				color="yellow"
 				style="
 					border: 1.5px solid #1e1e1e;
 					color: black;
@@ -68,7 +61,8 @@
 					font-weight: 100;
 				"
 				variant="flat"
-				>Get Your Tickets</v-btn
+				href="https://konfhub.com/devfest-prayagraj-2025"
+				>Register Here</v-btn
 			>
 		</ClientOnly>
 	</v-app-bar>
