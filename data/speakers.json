@@ -1,22 +1,5 @@
 [
   {
-    "id": "101",
-    "name": "Aushotosh Bhakre",
-    "company": {
-      "name": "GDG Expert in Cloud",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "",
-    "bio": "",
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
     "id": "102",
     "name": "Praveen Das",
     "company": {
@@ -41,42 +24,8 @@
       "designation": ""
     },
     "community_title": "",
-    "image": "",
-    "bio": "",
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
-    "id": "104",
-    "name": "Usha Rengaraju",
-    "company": {
-      "name": "GDE for AI",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "",
-    "bio": "",
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
-    "id": "105",
-    "name": "Vrijraj Singh",
-    "company": {
-      "name": "GDE for AI & Cloud",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "vrijraj.jpeg",
-    "bio": "",
+    "image": "anubhav.jpeg",
+    "bio": "IT graduate served fresh with a delicious topping of web development and machine learning, flavored strongly with love for fast growing startups. Recommended to be taken as a main course, doesn't quite fit in as side dish. Could have been a stand up comedian but was already committed to computers, so stayed (is a total keeper)",
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -92,8 +41,8 @@
       "designation": ""
     },
     "community_title": "",
-    "image": "",
-    "bio": "",
+    "image": "pankaj.jpg",
+    "bio": "Pankaj Rai is a Google Developer Expert for Android & Firebase with extensive experience in mobile app development. He specializes in native Android development, creating scalable apps with modern technologies like Kotlin, Jetpack Compose, AAC, and Coroutines. His expertise extends to Machine Learning integration, Augmented Reality with ARCore, and Flutter development. Pankaj is an early adopter of Kotlin and has created open-source libraries including Stories, JetToast, and JetFirestore. He actively contributes to the developer community through articles, YouTube tutorials on his channel \"All Techies\", and speaking at tech events.",
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -102,20 +51,55 @@
     }
   },
   {
-    "id": "107",
-    "name": "Jay Thakkar",
+    "id": "105",
+    "name": "Vrijraj Singh",
     "company": {
-      "name": "GDE for AI",
+      "name": "GDE for Firebase and Web Technologies",
       "designation": ""
     },
     "community_title": "",
-    "image": "",
-    "bio": "",
+    "image": "vrijraj.jpeg",
+    "bio": "Vrijraj is a CTO by profession and a community champion by passion. He was an organizer for GDG Jalandhar for 7 years and is a Google Developer Expert for Firebase and Web Technologies. He has delivered 400+ talks and workshops, including 50+ international sessions, focusing on Web Technologies, Firebase, Google Cloud Platform, and UI/UX Design. Vrijraj has organized 400+ meetups and events, including DevFest India and Google Cloud Community Days India. He developed the open-source Aura App used by 150+ communities worldwide. He enjoys mentoring developers and nurturing communities.",
+    "social": {
+      "linkedin": "",
+      "twitter": "https://twitter.com/SVrijraj",
+      "github": "https://github.com/vrijraj",
+      "web": "https://vrijraj.xyz/",
+      "youtube": "https://www.youtube.com/c/TechFerment"
+    }
+  },
+  {
+    "id": "107",
+    "name": "Saurabh Mishra",
+    "company": {
+      "name": "Cloud",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "sourabh.jpg",
+    "bio": "Saurabh Mishra is an experienced Information Technology Associate with a demonstrated history of working in the computer software industry. He is skilled in Microsoft Word, DevOps, Databases, Jenkins, and Java. He holds a Bachelor's degree in Computer Science from Uttar Pradesh Technical University, Lucknow.",
     "social": {
       "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
+    }
+  },
+  {
+    "id": "108",
+    "name": "Nitin Tiwari",
+    "company": {
+      "name": "Google Developer Expert in Machine Learning",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "nitin.jpeg",
+    "bio": "Hello, I am Nitin Tiwari, Senior Data Scientist at Zelar and a Google Developer Expert in Machine Learning. I have 4+ years of experience in AI/ML, specializing in developing end-to-end pipelines for applications focused on Computer Vision, NLP, LLMs, and Generative AI. My expertise includes GCP, Vertex AI, fine-tuning LLMs, and deploying ML models. I am passionate about contributing to the open-source community and regularly share projects, blogs, and articles on GitHub and Medium. Notable contributions include projects and examples I've developed for the official TensorFlow.js and Gemma Cookbook repositories that have been highlighted in these repositories, as well as contributions to the Google Dev Library. If you think I can help you, let's connect and talk.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "https://github.com/NSTiwari",
+      "web": "https://medium.com/@tiwarinitin1999"
     }
   }
 ]
