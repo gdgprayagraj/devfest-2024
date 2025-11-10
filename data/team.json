@@ -116,7 +116,7 @@
     },
     "community_title": "",
     "image": "anshuman.jpg",
-    "bio": "MERN Stack Developer & Machine Learning Practitioner.",
+    "bio": "MERN Stack Developer & Machine Learning Practitioner. AI & ML enthusiast passionate about tech and creativity. Core team member at GDG Prayagraj | Co-Envoy WikiClub Tech-UU | Web developer, freelancer & digital strategist shaping ideas into impact",
     "social": {
       "linkedin": "https://www.linkedin.com/in/anshuman-rai-0433032b9/",
       "twitter": "",
@@ -124,6 +124,800 @@
       "web": ""
     },
     "type": "Core"
-  }
+  },
+  {
+    "id": "6009",
+    "name": "Jaish Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Jaish Singh.png",
+    "bio": "Full Stack Developer.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jaishsingh/",
+      "twitter": "",
+      "github": "https://github.com/jaishsingh",
+      "web": "https://jaish.vercel.app/"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6010",
+    "name": "Manvi Kesarwani",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "manvi.jpg",
+    "bio": "MERN Stack Developer & Machine Learning Practitioner.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6012",
+    "name": "Ayushi Srivastava",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Ayushi.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6013",
+    "name": "Sakshi Rai ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Sakshi Rai.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6014",
+    "name": "Shagun Ratan",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Shagunrtn.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6015",
+    "name": "Pushpak Tiwari",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Pushpak.jpg",
+    "bio": "Pushpak Tiwari blends creativity with technology to build meaningful digital experiences. Passionate about web development, AI and open-source, serving as a Core Team Member at GDG DevFest Prayagraj and volunteer at GDG/TFUG Prayagraj.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6016",
+    "name": "Komal Pandey",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Komal.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6017",
+    "name": "Adarsh kesharwani ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Adarsh.jpg",
+    "bio": "Adarsh Kesharwani is a passionate Full-Stack Web Developer with a strong commitment to open-source contribution and technical excellence. Proficient across the stack, including modern technologies like React, Node.js, and MongoDB, and experienced with modern version control systems. Dedicated to innovation, he also contribute actively to the tech community by working as a Technical Core Member in Wiki Club Tech UIT and volunteering at GDG/TFUG Prayagraj.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6018",
+    "name": "Shivaansh Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Shivaansh Singh.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
   
+  {
+    "id": "6019",
+    "name": "Arohi Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Arohi Singh.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6020",
+    "name": "Reeti Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Reeti Singh.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6021",
+    "name": "T Ebenezer Rao",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Ebenezer Rao.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6022",
+    "name": "Sanskar dubey",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Sanskar Dubey.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6023",
+    "name": "Arpita Jain ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Arpita Jain.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6024",
+    "name": "Prakhar Agrahari",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Prakhar Agrahari.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6025",
+    "name": "Anjali Mishra ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Anjali Mishra.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6026",
+    "name": "Mohammad Manhar",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Mohammad Manhar.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6027",
+    "name": "Divyaratann Srivastava ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "DIVYARATANN SRIVASTAVA.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6028",
+    "name": "Zoya Rafiq ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Zoya Rafiq.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6029",
+    "name": "Shreshth Srivastava ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Shreshth Srivastava.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6030",
+    "name": "Raj Bhartiya",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Raj Bhartiya.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6031",
+    "name": "Daher Fatima ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Daher Fatima.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6032",
+    "name": "Sarthak Singh",
+    "company": {
+      "name": "UIT",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6033",
+    "name": "Reeti Singh",
+    "company": {
+      "name": "UIT",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6034",
+    "name": "Shivansh Singh",
+    "company": {
+      "name": "UIT",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6035",
+    "name": "Ebenezer Rao",
+    "company": {
+      "name": "SHUATS",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6036",
+    "name": "Harsh Kushwaha",
+    "company": {
+      "name": "SHUATS",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6037",
+    "name": "Sakshi Rai",
+    "company": {
+      "name": "SHUATS",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6038",
+    "name": "Sakshi Pandey",
+    "company": {
+      "name": "UU",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6039",
+    "name": "Krishna Singh",
+    "company": {
+      "name": "UU",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6040",
+    "name": "Vratej Diwedi",
+    "company": {
+      "name": "UU",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },  
+  {
+    "id": "6041",
+    "name": "Ayushi Srivastava",
+    "company": {
+      "name": "UCER",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },  
+  {
+    "id": "6042",
+    "name": "Ayush Tripathi",
+    "company": {
+      "name": "UCER",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6043",
+    "name": "Pushpak Tiwari",
+    "company": {
+      "name": "UCER",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6044",
+    "name": "Komal Pandey",
+    "company": {
+      "name": "SIET",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6045",
+    "name": "Shweta Mishra",
+    "company": {
+      "name": "SIET",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6046",
+    "name": "Atul Kesharwani",
+    "company": {
+      "name": "RECS",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6047",
+    "name": "Kundan Singh Rajput",
+    "company": {
+      "name": "RECS",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6048",
+    "name": "Gangan Madhan",
+    "company": {
+      "name": "IIIT-A",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6049",
+    "name": "Priyanshi Maheshwari",
+    "company": {
+      "name": "IIIT-A",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6050",
+    "name": "Kartikeya Singh",
+    "company": {
+      "name": "BBS",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6051",
+    "name": "Priyankar Shukla",
+    "company": {
+      "name": "CMP",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6052",
+    "name": "Vishal Maurya",
+    "company": {
+      "name": "PIT",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  },
+  {
+    "id": "6053",
+    "name": "Rishi Yadav",
+    "company": {
+      "name": "PIT",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": ".jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Point of Contact"
+  }
+
+
 ]
