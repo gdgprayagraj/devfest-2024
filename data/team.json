@@ -418,7 +418,7 @@
     "id": "6026",
     "name": "Mohammad Manhar",
     "company": {
-      "name": "Volunteer",
+      "name": "Core Team",
       "designation": ""
     },
     "community_title": "",
@@ -430,13 +430,13 @@
       "github": "",
       "web": ""
     },
-    "type": "Volunteer"
+    "type": "Core"
   },
   {
     "id": "6027",
     "name": "Divyaratann Srivastava ",
     "company": {
-      "name": "Volunteer",
+      "name": "Core Team",
       "designation": ""
     },
     "community_title": "",
@@ -448,7 +448,7 @@
       "github": "",
       "web": ""
     },
-    "type": "Volunteer"
+    "type": "Core"
   },
   {
     "id": "6028",
@@ -495,24 +495,6 @@
     },
     "community_title": "",
     "image": "Raj Bhartiya.jpg",
-    "bio": "",
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    },
-    "type": "Volunteer"
-  },
-  {
-    "id": "6031",
-    "name": "Daher Fatima ",
-    "company": {
-      "name": "Volunteer",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "Daher Fatima.jpg",
     "bio": "",
     "social": {
       "linkedin": "",
