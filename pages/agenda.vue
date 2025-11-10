@@ -44,82 +44,179 @@
                     </tr>
                   </thead>
                   <tbody>
-                    <tr
-                      v-for="(session, index) in agendaData"
-                      :key="index"
-                      class="agenda-table-row"
-                      :class="{
-                        'agenda-row-highlight': session.highlight,
-                        'agenda-row-break': session.isBreak,
-                      }"
-                    >
-                      <td class="pa-4 agenda-time-cell">
-                        {{ session.time }}
-                      </td>
-                      <td class="pa-4 agenda-title-cell">
-                        <div v-html="session.title" class="agenda-title-text"></div>
-                      </td>
-                      <td class="pa-4 agenda-speaker-cell">
-                        <div v-html="formatSpeakers(session.speakers)" class="agenda-speaker-text"></div>
-                      </td>
-                      <td class="pa-4 agenda-details-cell">
-                        {{ session.details }}
-                      </td>
-                    </tr>
+                    <template v-for="(session, index) in agendaData" :key="index">
+                      <!-- Parallel Sessions Special Layout -->
+                      <tr
+                        v-if="session.isParallel"
+                        class="agenda-parallel-row"
+                      >
+                        <td colspan="4" class="pa-0">
+                          <div class="parallel-session-container">
+                            <div class="parallel-session-header">
+                              <div class="parallel-time-badge">
+                                <v-icon size="small" class="mr-1">mdi-clock-outline</v-icon>
+                                {{ session.time }}
+                              </div>
+                              <div class="parallel-title-section">
+                                <div class="parallel-badge">
+                                  <v-icon size="small" class="mr-1">mdi-source-branch</v-icon>
+                                  Parallel Sessions
+                                </div>
+                                <h3 class="parallel-main-title">{{ session.title }}</h3>
+                                <p class="parallel-description">{{ session.details }}</p>
+                              </div>
+                            </div>
+                            <div class="parallel-tracks-grid">
+                              <div
+                                v-for="(track, trackIndex) in session.parallelTracks"
+                                :key="trackIndex"
+                                class="parallel-track-card"
+                              >
+                                <div class="track-number">{{ trackIndex + 1 }}</div>
+                                <div class="track-content">
+                                  <div class="track-name">{{ track.name }}</div>
+                                  <div class="track-topic">{{ track.topic }}</div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <!-- Regular Sessions -->
+                      <tr
+                        v-else
+                        class="agenda-table-row"
+                        :class="{
+                          'agenda-row-highlight': session.highlight,
+                          'agenda-row-break': session.isBreak,
+                        }"
+                      >
+                        <td class="pa-4 agenda-time-cell">
+                          {{ session.time }}
+                        </td>
+                        <td class="pa-4 agenda-title-cell">
+                          <div v-html="session.title" class="agenda-title-text"></div>
+                        </td>
+                        <td class="pa-4 agenda-speaker-cell">
+                          <div v-html="formatSpeakers(session.speakers)" class="agenda-speaker-text"></div>
+                        </td>
+                        <td class="pa-4 agenda-details-cell">
+                          {{ session.details }}
+                        </td>
+                      </tr>
+                    </template>
                   </tbody>
                 </v-table>
               </div>
 
               <!-- Mobile Card View -->
               <div class="d-md-none">
-                <v-card
-                  v-for="(session, index) in agendaData"
-                  :key="index"
-                  class="ma-3 agenda-card"
-                  :class="{
-                    'agenda-card-highlight': session.highlight,
-                    'agenda-card-break': session.isBreak,
-                  }"
-                  style="border-radius: 12px"
-                  elevation="1"
-                >
-                  <v-card-text class="pa-4">
-                    <div class="mb-3">
-                      <v-chip
-                        size="small"
-                        :color="session.isBreak ? 'yellow' : 'primary'"
-                        variant="flat"
-                        class="google-font"
-                        style="font-weight: 700"
+                <template v-for="(session, index) in agendaData" :key="index">
+                  <!-- Parallel Sessions Mobile Layout -->
+                  <v-card
+                    v-if="session.isParallel"
+                    class="ma-3 parallel-session-mobile-card"
+                    style="border-radius: 12px"
+                    elevation="2"
+                  >
+                    <v-card-text class="pa-4">
+                      <div class="mb-3 d-flex align-center">
+                        <v-chip
+                          size="small"
+                          color="primary"
+                          variant="flat"
+                          class="google-font mr-2"
+                          style="font-weight: 700"
+                        >
+                          <v-icon size="small" class="mr-1">mdi-clock-outline</v-icon>
+                          {{ session.time }}
+                        </v-chip>
+                        <v-chip
+                          size="small"
+                          color="secondary"
+                          variant="flat"
+                          class="google-font"
+                        >
+                          <v-icon size="small" class="mr-1">mdi-source-branch</v-icon>
+                          Parallel
+                        </v-chip>
+                      </div>
+                      <h3
+                        class="google-font mb-2"
+                        style="font-weight: 600; color: #1e1e1e; font-size: 1.1em"
                       >
-                        {{ session.time }}
-                      </v-chip>
-                    </div>
-                    <h3
-                      class="google-font mb-2"
-                      style="font-weight: 600; color: #1e1e1e; font-size: 1.1em"
-                      v-html="session.title"
-                    ></h3>
-                    <div
-                      v-if="session.speakers && session.speakers !== '–'"
-                      class="mb-2 agenda-card-speakers"
-                      style="color: #424242"
-                    >
-                      <strong>Speaker(s):</strong>
+                        {{ session.title }}
+                      </h3>
+                      <p
+                        class="google-font mb-3"
+                        style="color: #616161; line-height: 1.6; font-size: 0.95em"
+                      >
+                        {{ session.details }}
+                      </p>
+                      <div class="parallel-tracks-mobile">
+                        <div
+                          v-for="(track, trackIndex) in session.parallelTracks"
+                          :key="trackIndex"
+                          class="parallel-track-mobile-card"
+                        >
+                          <div class="track-mobile-number">{{ trackIndex + 1 }}</div>
+                          <div class="track-mobile-content">
+                            <div class="track-mobile-name">{{ track.name }}</div>
+                            <div class="track-mobile-topic">{{ track.topic }}</div>
+                          </div>
+                        </div>
+                      </div>
+                    </v-card-text>
+                  </v-card>
+                  <!-- Regular Sessions Mobile -->
+                  <v-card
+                    v-else
+                    class="ma-3 agenda-card"
+                    :class="{
+                      'agenda-card-highlight': session.highlight,
+                      'agenda-card-break': session.isBreak,
+                    }"
+                    style="border-radius: 12px"
+                    elevation="1"
+                  >
+                    <v-card-text class="pa-4">
+                      <div class="mb-3">
+                        <v-chip
+                          size="small"
+                          :color="session.isBreak ? 'yellow' : 'primary'"
+                          variant="flat"
+                          class="google-font"
+                          style="font-weight: 700"
+                        >
+                          {{ session.time }}
+                        </v-chip>
+                      </div>
+                      <h3
+                        class="google-font mb-2"
+                        style="font-weight: 600; color: #1e1e1e; font-size: 1.1em"
+                        v-html="session.title"
+                      ></h3>
                       <div
-                        v-html="formatSpeakers(session.speakers)"
-                        class="google-font mt-1"
-                        style="line-height: 1.6"
-                      ></div>
-                    </div>
-                    <p
-                      class="google-font mb-0"
-                      style="color: #616161; line-height: 1.6; font-size: 0.95em"
-                    >
-                      {{ session.details }}
-                    </p>
-                  </v-card-text>
-                </v-card>
+                        v-if="session.speakers && session.speakers !== '–'"
+                        class="mb-2 agenda-card-speakers"
+                        style="color: #424242"
+                      >
+                        <strong>Speaker(s):</strong>
+                        <div
+                          v-html="formatSpeakers(session.speakers)"
+                          class="google-font mt-1"
+                          style="line-height: 1.6"
+                        ></div>
+                      </div>
+                      <p
+                        class="google-font mb-0"
+                        style="color: #616161; line-height: 1.6; font-size: 0.95em"
+                      >
+                        {{ session.details }}
+                      </p>
+                    </v-card-text>
+                  </v-card>
+                </template>
               </div>
             </v-card-text>
           </v-card>
@@ -196,7 +293,7 @@ const agendaData = ref([
   {
     time: "10:30 AM – 11:00 AM",
     title: "Cake Cutting Ceremony",
-    speakers: "–",
+    speakers: "GDG Prayagraj Team",
     details: "Celebration of DevFest spirit with community members.",
     highlight: false,
     isBreak: false,
@@ -204,7 +301,7 @@ const agendaData = ref([
   {
     time: "11:00 AM – 11:30 AM",
     title: "Keynote Session",
-    speakers: "–",
+    speakers: "Speaker Led",
     details: "Opening keynote to kick off DevFest Prayagraj 2025.",
     highlight: false,
     isBreak: false,
@@ -212,7 +309,7 @@ const agendaData = ref([
   {
     time: "11:30 AM – 12:00 PM",
     title: "Speaker Talk 1: Open Source",
-    speakers: "<strong>Praveen Das</strong>",
+    speakers: "<strong>Praveen Das</strong> <em>(Open Source)</em>",
     details: "Empowering Developers through Open Source Contributions.",
     highlight: false,
     isBreak: false,
@@ -220,7 +317,7 @@ const agendaData = ref([
   {
     time: "12:00 PM – 12:30 PM",
     title: "Speaker Talk 2: Gemini CLI & MCP Server",
-    speakers: "<strong>Anubhav Singh</strong>",
+    speakers: "<strong>Anubhav Singh</strong> <em>(GDE AI & Cloud)</em> ",
     details: "Exploring the Power of Gemini CLI with MCP Server.",
     highlight: false,
     isBreak: false,
@@ -228,7 +325,7 @@ const agendaData = ref([
   {
     time: "12:30 PM – 01:00 PM",
     title: "Speaker Talk 3: ADK & Developer Tools",
-    speakers: "<strong>Pankaj Rai</strong> <em>(GDE – Firebase)</em>",
+    speakers: "<strong>Pankaj Rai</strong> <em>(GDE for Android & Firebase)</em>",
     details: "Advanced Developer Kit and Productivity with Firebase Tools.",
     highlight: false,
     isBreak: false,
@@ -244,7 +341,7 @@ const agendaData = ref([
   {
     time: "01:45 PM – 02:00 PM",
     title: "Speaker Talk 5: Cloud Innovations <em>(Tentative)</em>",
-    speakers: "<strong>Saurabh Mishra</strong>",
+    speakers: "<strong>Saurabh Mishra</strong> <em>(GDE - DevOps & Cloud Evangelist)</em>",
     details: "Next-Gen Cloud Solutions and Deployment Strategies.",
     highlight: false,
     isBreak: false,
@@ -266,6 +363,14 @@ const agendaData = ref([
       "Deep-dive sessions on modern technologies guided by industry experts.",
     highlight: false,
     isBreak: false,
+    isParallel: true,
+    parallelTracks: [
+      { name: "Nitin Tiwari", topic: "Gemini & Generative AI" },
+      { name: "Saurabh Mishra", topic: "Cloud" },
+      { name: "Vrijraj Singh", topic: "Firebase" },
+      { name: "Pankaj Rai", topic: "Mobile Development" },
+      { name: "Praveen Das", topic: "Open Source" },
+    ],
   },
 ]);
 
@@ -704,5 +809,236 @@ useSeoMeta({
 .agenda-table :deep(.v-table__wrapper) {
   border-radius: 15px;
   overflow: hidden;
+}
+
+/* Parallel Sessions Styling */
+.agenda-parallel-row {
+  background-color: #f8f9fa !important;
+  border-left: 4px solid #4285f4 !important;
+}
+
+.agenda-parallel-row:hover {
+  background-color: #f0f4f8 !important;
+}
+
+/* Parallel session container */
+.parallel-session-container {
+  padding: 24px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+}
+
+/* Parallel session header */
+.parallel-session-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 24px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+/* Time badge styling */
+.parallel-time-badge {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  background-color: #4285f4;
+  color: white;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9em;
+  white-space: nowrap;
+  box-shadow: 0 2px 4px rgba(66, 133, 244, 0.2);
+}
+
+/* Parallel badge indicator */
+.parallel-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  background-color: #e8f0fe;
+  color: #1967d2;
+  border-radius: 20px;
+  font-size: 0.75em;
+  font-weight: 600;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Parallel title section */
+.parallel-title-section {
+  flex: 1;
+}
+
+.parallel-main-title {
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #1e1e1e;
+  margin: 0 0 8px 0;
+  line-height: 1.3;
+}
+
+.parallel-description {
+  color: #616161;
+  font-size: 0.95em;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Parallel tracks grid */
+.parallel-tracks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+/* Individual track card */
+.parallel-track-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  background-color: white;
+  border: 2px solid #e0e0e0;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.parallel-track-card:hover {
+  border-color: #4285f4;
+  box-shadow: 0 4px 12px rgba(66, 133, 244, 0.15);
+  transform: translateY(-2px);
+}
+
+/* Track number badge */
+.track-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: linear-gradient(135deg, #4285f4 0%, #1967d2 100%);
+  color: white;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.9em;
+  flex-shrink: 0;
+  box-shadow: 0 2px 4px rgba(66, 133, 244, 0.3);
+}
+
+/* Track content */
+.track-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.track-name {
+  font-weight: 600;
+  color: #1e1e1e;
+  font-size: 0.95em;
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+
+.track-topic {
+  color: #616161;
+  font-size: 0.85em;
+  line-height: 1.4;
+}
+
+
+/* Mobile parallel session card */
+.parallel-session-mobile-card {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-left: 4px solid #4285f4;
+}
+
+/* Mobile parallel tracks */
+.parallel-tracks-mobile {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.parallel-track-mobile-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  background-color: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.parallel-track-mobile-card:hover {
+  border-color: #4285f4;
+  box-shadow: 0 2px 8px rgba(66, 133, 244, 0.1);
+}
+
+.track-mobile-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background: linear-gradient(135deg, #4285f4 0%, #1967d2 100%);
+  color: white;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.85em;
+  flex-shrink: 0;
+}
+
+.track-mobile-content {
+  flex: 1;
+}
+
+.track-mobile-name {
+  font-weight: 600;
+  color: #1e1e1e;
+  font-size: 0.9em;
+  margin-bottom: 2px;
+}
+
+.track-mobile-topic {
+  color: #616161;
+  font-size: 0.8em;
+}
+
+/* Responsive adjustments for parallel sessions */
+@media (max-width: 960px) {
+  .parallel-session-container {
+    padding: 20px;
+  }
+  
+  .parallel-session-header {
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .parallel-time-badge {
+    align-self: flex-start;
+  }
+  
+  .parallel-tracks-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  
+  .parallel-main-title {
+    font-size: 1.1em;
+  }
+}
+
+@media (min-width: 961px) and (max-width: 1200px) {
+  .parallel-tracks-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 </style>
