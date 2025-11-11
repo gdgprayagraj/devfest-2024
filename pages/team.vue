@@ -37,6 +37,7 @@
       </v-row>
 
       <!-- Point of Contact Section -->
+      <!--
       <v-row class="mt-8">
         <v-col md="12">
           <h1>Point of Contact</h1>
@@ -51,6 +52,7 @@
           <common-team-card :data="item" />
         </v-col>
       </v-row>
+      -->
     </v-container>
   </NuxtLayout>
 </template>
@@ -70,9 +72,9 @@ const volunteers = computed(() => {
   return teamData.filter(member => member.type === 'Volunteer');
 });
 
-const pointOfContact = computed(() => {
-  return teamData.filter(member => member.type === 'Point of Contact');
-});
+// const pointOfContact = computed(() => {
+//   return teamData.filter(member => member.type === 'Point of Contact');
+// });
 
 useSeoMeta({
   contentType: "text/html; charset=utf-8",
