@@ -4,10 +4,9 @@
       <v-col md="12" sm="12">
         <h1>What to Expect</h1>
         <p>
-          An annual event hosted by the Google Developers Group across the world
-          to bring the technology closer to the developers. It is an all day
-          developer conference where we aim to focus on multiple technologies
-          through lightning talks, sessions, workshops, etc.
+          At DevFest 2025, we're focusing on building safe, secure, and scalable solutions with AI and Cloud technologies. 
+          This annual event hosted by the Google Developers Group brings together developers to explore cutting-edge technologies 
+          through lightning talks, sessions, and <strong>hands-on workshops</strong>.
         </p>
       </v-col>
       <v-col

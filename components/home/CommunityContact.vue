@@ -1,5 +1,8 @@
 <template>
   <v-container fluid>
+    <v-alert type="warning" variant="tonal" class="my-4" style="font-size: 1.1em;">
+			<strong>GEN-AI Hackathon:</strong> A 7-hour challenge, innovate, and showcase your GenAI magic. <a href="https://forms.gle/qTDXfZ2BupcLHDDj8" style="color: inherit; text-decoration: underline;">Register now</a> for this exciting opportunity! <br> <a href="/hackathon" style="color: inherit; text-decoration: underline;">Click here</a> to learn more
+		</v-alert>
     <v-row>
       <v-col md="12">
         <v-container
@@ -14,11 +17,11 @@
             <v-col md="5" sm="6" cols="12">
               <h1 style="line-height: normal;">
                 Keep in touch with {{ mainData.communityName }} for the latest
-                announcements
+                announcements about DevFest 2025
               </h1>
               <p class="mb-3">
                 Stake out #{{ mainData.communityName }} for the latest updates
-                and news.
+                and news about building safe, secure, and scalable solutions with AI and Cloud.
               </p>
 
               <CommonSpeakerSocialButton

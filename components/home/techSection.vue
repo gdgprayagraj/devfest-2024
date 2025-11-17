@@ -6,9 +6,10 @@
           style="background-color: #eeeeee; border-radius: 20px;border: 1.5px solid black;"
           class="pa-8"
         >
-          <h1>Stay updated on the products you love</h1>
+          <h1>Building Safe, Secure and Scalable Solutions with AI and Cloud</h1>
           <p>
-            This DevFest we are focusing on the technologies that are trending in the market and are in demand. Let's come together and learn about these technologies from industry leading experts.
+            This DevFest we are focusing on the technologies that enable safe, secure, and scalable solutions with AI and Cloud. 
+            Let's come together and learn about these technologies from industry leading experts.
           </p>
           <v-container fluid>
             <v-row justify-start align="start">
@@ -53,29 +54,34 @@
 const { mainData } = useJSONData();
 var tech = ref([
   {
+    name: "Google Cloud",
+    link: "https://cloud.google.com/",
+    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/cloud/images/favicons/onecloud/super_cloud.png",
+  },
+  {
     name: "Android",
     link: "https://developer.android.com/",
     logo: "https://developer.android.com/static/images/android-logo.svg",
   },
   {
-    name: "Google Checks",
-    link: "https://checks.google.com/",
-    logo: "https://developers.google.com/static/checks/images/Checks_Icon_2880.png",
+    name: "Gemini",
+    link: "https://gemini.google.com/",
+    logo: "https://gemini.google/images/spark_4c.png",
   },
   {
-    name: "ARCore",
-    link: "https://developers.google.com/ar",
-    logo: "https://developers.google.com/static/ar/images/logo.svg",
-  },
-  {
-    name: "Google Chrome",
-    link: "https://www.google.com/chrome/",
-    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/chrome/images/touchicon-180.png",
+    name: "Google Agent Development Kit (ADK)",
+    link: "https://developers.google.com/agent-development-kit",
+    logo: "https://google.github.io/adk-docs/assets/agent-development-kit.png",
   },
   {
     name: "Google AI Studio",
     link: "https://aistudio.google.com/",
     logo: "https://developers.google.com/static/focus/images/ai-studio-icon_2880.png",
+  },
+  {
+    name: "TensorFlow",
+    link: "https://www.tensorflow.org/",
+    logo: "https://developers.google.com/static/site-assets/logo-tensorflow.svg",
   },
   {
     name: "Firebase",
@@ -88,29 +94,34 @@ var tech = ref([
     logo: "https://developers.google.com/static/site-assets/logo-flutter.svg",
   },
   {
-    name: "Google Cloud",
-    link: "https://cloud.google.com/",
-    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/cloud/images/favicons/onecloud/super_cloud.png",
+    name: "Google Checks",
+    link: "https://checks.google.com/",
+    logo: "https://developers.google.com/static/checks/images/Checks_Icon_2880.png",
+  },
+  // {
+  //   name: "ARCore",
+  //   link: "https://developers.google.com/ar",
+  //   logo: "https://developers.google.com/static/ar/images/logo.svg",
+  // },
+  {
+    name: "Google Chrome",
+    link: "https://www.google.com/chrome/",
+    logo: "https://www.gstatic.com/devrel-devsite/prod/ve6d23e3d09b80ebb8aa912b18630ed278e1629b97aee6522ea53593a0024d951/chrome/images/touchicon-180.png",
   },
   {
     name: "Google Maps",
     link: "https://developers.google.com/maps",
     logo: "https://developers.google.com/static/maps/images/maps-icon.svg",
   },
-  {
-    name: "Google Pay & Google Wallet",
-    link: "https://developers.google.com/wallet",
-    logo: "https://developers.google.com/static/wallet/images/wallet-icon.png",
-  },
+  // {
+  //   name: "Google Pay & Google Wallet",
+  //   link: "https://developers.google.com/wallet",
+  //   logo: "https://developers.google.com/static/wallet/images/wallet-icon.png",
+  // },
   {
     name: "Google Play",
     link: "https://play.google.com/console/about/",
     logo: "https://fonts.gstatic.com/s/i/productlogos/play_games/v4/web-64dp/logo_play_games_color_1x_web_64dp.png",
-  },
-  {
-    name: "TensorFlow",
-    link: "https://www.tensorflow.org/",
-    logo: "https://www.gstatic.com/devrel-devsite/prod/v20ab951cf37b43fc7a428ae75ce91d8269f391204ca16525bc8a5ececea0ab56/tensorflow/images/apple-touch-icon-180x180.png",
   },
 ]);
 </script>

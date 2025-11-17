@@ -9,6 +9,7 @@
             various communities within their organizations, cities, countries,
             and beyond, making a significant impact through their contributions
             and support.
+            <!-- Speakers will be revealed soon. -->
           </p>
         </v-col>
       </v-row>
@@ -31,7 +32,7 @@
 <script setup>
 const { mainData, speakersData } = useJSONData();
 
-const removeSpeakers = ["103", "104"]
+const removeSpeakers = []
 const filteredSpeakers = speakersData.filter(speaker => !removeSpeakers.includes(speaker.id));
 
 definePageMeta({

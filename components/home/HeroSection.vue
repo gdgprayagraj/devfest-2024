@@ -31,14 +31,13 @@
 				<v-btn
 					rounded
 					size="large"
-					color="#6c757d"
-					disabled
-					
+					color="yellow"
 					class="my-4 mt-3"
 					target="_blank"
-					style="border: 1.5px solid #1e1e1e; color: white"
+					style="border: 1.5px solid #1e1e1e; color: black"
 					variant="flat"
-					>Coming Soon</v-btn
+					href="https://konfhub.com/devfest-prayagraj-2025"
+					>Register Here</v-btn
 				>
 			</v-col>
 			<v-col md="6" sm="6" cols="12">
@@ -49,6 +48,10 @@
 				></v-img>
 			</v-col>
 		</v-row>
+
+		<v-alert type="info" variant="tonal" class="my-4" style="font-size: 1.1em;">
+			<strong>New for 2025:</strong> This year, DevFest Prayagraj is not just speaker-led sessions, but also includes <strong>hands-on workshops!</strong> Don't miss out on the chance to learn, grow, and connect with the developer community!
+		</v-alert>
 	</v-container>
 </template>
 
