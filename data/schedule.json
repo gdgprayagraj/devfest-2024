@@ -6,52 +6,57 @@
             {
                 "startTime": "9:00 AM",
                 "endTime": "9:30 AM",
-                "session": 1001
+                "session": 2001
+            },
+            {
+                "startTime": "9:30 AM",
+                "endTime": "10:00 AM",
+                "session": 2002
+            },
+            {
+                "startTime": "10:00 AM",
+                "endTime": "10:15 AM",
+                "session": 2003
             },
             {
                 "startTime": "10:30 AM",
                 "endTime": "11:00 AM",
-                "session": 1002
+                "session": 2004
             },
             {
-                "startTime": "11:00 AM",
-                "endTime": "11:30 AM",
-                "session": 1004
+                "startTime": "11:05 AM",
+                "endTime": "11:25 AM",
+                "session": 2005
             },
             {
                 "startTime": "11:30 AM",
-                "endTime": "12:00 PM",
-                "session": 1005
+                "endTime": "11:50 AM",
+                "session": 2006
             },
             {
-                "startTime": "12:00 PM",
+                "startTime": "11:55 AM",
+                "endTime": "12:15 PM",
+                "session": 2007
+            },
+            {
+                "startTime": "12:20 PM",
+                "endTime": "12:40 PM",
+                "session": 2008
+            },
+            {
+                "startTime": "12:45 PM",
                 "endTime": "1:00 PM",
-                "session": 1006
+                "session": 2009
             },
             {
                 "startTime": "1:00 PM",
-                "endTime": "1:30 PM",
-                "session": 1007
-            },
-            {
-                "startTime": "1:30 PM",
                 "endTime": "2:00 PM",
-                "session": 1008
+                "session": 2010
             },
             {
-                "startTime": "2:30 PM",
-                "endTime": "2:30 PM",
-                "session": 1009
-            },
-            {
-                "startTime": "3:00 PM",
+                "startTime": "2:00 PM",
                 "endTime": "3:30 PM",
-                "session": 1011
-            },
-            {
-                "startTime": "4:00 PM",
-                "endTime": "",
-                "session": 1012
+                "session": 2011
             }
         ]
     }
