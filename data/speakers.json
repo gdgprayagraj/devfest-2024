@@ -51,33 +51,15 @@
     }
   },
   {
-    "id": "105",
-    "name": "Vrijraj Singh",
+    "id": "111",
+    "name": "Gaurav Kheterpal",
     "company": {
-      "name": "GDE for Firebase and Web Technologies",
+      "name": "Google Developer expert AI",
       "designation": ""
     },
     "community_title": "",
-    "image": "vrijraj.jpeg",
-    "bio": "Vrijraj is a CTO by profession and a community champion by passion. He was an organizer for GDG Jalandhar for 7 years and is a Google Developer Expert for Firebase and Web Technologies. He has delivered 400+ talks and workshops, including 50+ international sessions, focusing on Web Technologies, Firebase, Google Cloud Platform, and UI/UX Design. Vrijraj has organized 400+ meetups and events, including DevFest India and Google Cloud Community Days India. He developed the open-source Aura App used by 150+ communities worldwide. He enjoys mentoring developers and nurturing communities.",
-    "social": {
-      "linkedin": "",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/",
-      "youtube": "https://www.youtube.com/c/TechFerment"
-    }
-  },
-  {
-    "id": "107",
-    "name": "Saurabh Mishra",
-    "company": {
-      "name": "DevOps & Cloud Evangelist ||Google Developer Expert",
-      "designation": "DevOps & Cloud Evangelist ||Google Developer Expert"
-    },
-    "community_title": "",
-    "image": "Saurabh Mishra.png",
-    "bio": "Experienced IT professional with deep expertise in DevOps, Site Reliability Engineering (SRE), Cloud Architect, Automation, System and Platform Engineering.",
+    "image": "gaurav.jpg",
+    "bio": "Gaurav Kheterpal is a Google Developer Expert in AI (2025) and a Multi-Cloud Enterprise Architect with 25+ years of experience in strategic account management and product development. He is a Salesforce MVP Hall of Fame inductee, MuleSoft Ambassador, and Trailblazer with an impressive certification portfolio including 45x Salesforce Certs, 23x Accredited Professional Certs, 4x MuleSoft Certs, 3x Google Certs, and AWS certification. Gaurav is a seasoned speaker who has presented at major events including Dreamforce, TrailheadDX, SF World Tour, and India Dreamin', sharing insights on cutting-edge technologies and scaling enterprise solutions.",
     "social": {
       "linkedin": "",
       "twitter": "",
@@ -100,6 +82,23 @@
       "twitter": "",
       "github": "https://github.com/NSTiwari",
       "web": "https://medium.com/@tiwarinitin1999"
+    }
+  },
+  {
+    "id": "110",
+    "name": "Shruti Tiwari",
+    "company": {
+      "name": "Women in tech",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "shruti.jpg",
+    "bio": "Shruti Tiwari is a strategic leader with 9+ years of experience in B2B SaaS eCommerce, specializing in product marketing, brand building, and GTM strategies. As a Google Women Techmakers Ambassador, I Am Remarkable Facilitator (Platinum Tier), GTM Ambassador, and Grammarly Ambassador, she empowers growth and innovation. Shruti has collaborated with industry leaders like Meta, Walmart, Amazon, eBay, and TikTok, successfully launching products and leading impactful marketing campaigns. She has led teams of 60+ professionals and is a dynamic speaker who delivers insights through global webinars and speaking engagements for major tech brands.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   }
 ]

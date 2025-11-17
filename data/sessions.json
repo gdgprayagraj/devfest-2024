@@ -1,100 +1,51 @@
 [
     {
-        "id": "1001",
+        "id": "2001",
         "slide": "",
-        "title": "Keynote: Responsible AI and Community [Gen Kit and IDX]",
-        "description": "A welcome keynote introducing the event's theme on Building Safe, Secure and Scalable Solutions with AI and Cloud. Ankit and Principal Sir will set the tone for the day, outlining the agenda and vision for building safe, secure, and scalable solutions with AI and Cloud in Prayagraj.",
+        "title": "Entry & Welcome Ceremony",
+        "description": "Participant registration, welcome address, and networking with the GDG Prayagraj team and community members.",
         "track": "",
         "link": "/img/past-devfest/image-3.png",
         "time": "9:00 AM to 9:30 AM (IST)",
         "format": "Day 1",
         "date": "Oct 25, 2025",
         "timeDuration": "30",
-        "speakers": [
-            108
-        ]
+        "speakers": []
     },
     {
-        "id": "1002",
+        "id": "2002",
         "slide": "",
-        "title": "Session 1: Generative AI for Future Trends",
-        "description": "Nishant will dive deep into AI and Generative AI and its potential impact on web development, highlighting real-world use cases and future trends in AI-powered web applications.",
-        "track": "AI",
-        "link": "/img/speaker-poster/Nishant-welpulwar.png",
-        "time": "10:30 AM to 11:00 AM (IST)",
-        "format": "Day 1",
-        "date": "Oct 25, 2025",
-        "timeDuration": "30",
-        "speakers": [
-            101
-        ]
-    },
-    {
-        "id": "1004",
-        "slide": "",
-        "title": "Session 2: Trust and Safety",
-        "description": "Vivek will Explore the advanced mechanisms behind trust and safety at Google, keeping the web secure for billions of users every day.",
+        "title": "Cake Cutting Ceremony",
+        "description": "Celebration of DevFest spirit with community members. Join us in cutting the cake to mark the beginning of this exciting event.",
         "track": "",
-        "link": "/img/speaker-poster/Vivek-Kumar.png",
-        "time": "11:00 AM to 11:30 AM (IST)",
-        "format": "Day 1",
-        "date": "Oct 25, 2025",
-        "timeDuration": "30",
-        "speakers": [
-            105
-        ]
-    },
-    {
-        "id": "1005",
-        "slide": "",
-        "title": "Session 4: Serverless AI with Cloud Run GPU",
-        "description": "Anubhav will cover how to deploy AI models in a serverless environment using Google Cloud Run with GPU, illustrating the benefits of scaling AI workloads with serverless technologies.",
-        "track": "Cloud & ML",
-        "link": "/img/speaker-poster/Anubhav-Singh.png",
-        "time": "11:30 AM to 12:00 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 25, 2025",
-        "timeDuration": "30",
-        "speakers": [
-            106
-        ]
-    },
-    {
-        "id": "1006",
-        "slide": "",
-        "title": "Lunch Break & Networking",
-        "description": "Enjoy a delicious lunch and networking with fellow attendees, speakers, and organizers. An engaging opportunity for attendees to network and connect with speakers and fellow developers, fostering collaboration and sharing insights that extend beyond the event.",
-        "track": "",
-        "link": "/img/speaker-poster/food.jpg",
-        "time": "12:00 PM to 1:00 PM (IST)",
+        "link": "/img/past-devfest/image-3.png",
+        "time": "9:30 AM to 10:00 AM (IST)",
         "format": "Day 1",
         "date": "Oct 25, 2025",
         "timeDuration": "30",
         "speakers": []
     },
     {
-        "id": "1007",
+        "id": "2003",
         "slide": "",
-        "title": "Session 5: Open source Technology",
-        "description": "Unlock the vast world of knowledge with Praveen - Explore how Wikipedia and open collaboration are transforming global access to information.",
+        "title": "Keynote Session",
+        "description": "Opening keynote to kick off DevFest Prayagraj 2025. Setting the tone for the day with insights on the latest trends in technology and innovation.",
         "track": "",
-        "link": "/img/speaker-poster/Praveen-Das.png",
-        "time": "1:00 PM to 1:30 PM (IST)",
+        "link": "/img/past-devfest/image-3.png",
+        "time": "10:00 AM to 10:15 AM (IST)",
         "format": "Day 1",
         "date": "Oct 25, 2025",
-        "timeDuration": "30",
-        "speakers": [
-            109
-        ]
+        "timeDuration": "15",
+        "speakers": []
     },
     {
-        "id": "1008",
+        "id": "2004",
         "slide": "",
-        "title": "Session 6: Utilize the Power of AI with Flutter App Development",
-        "description": "Dhrumil will explore the integration of AI into Flutter applications, demonstrating how developers can make their mobile apps smarter and more intuitive with AI-powered features.",
-        "track": "Flutter",
-        "link": "/img/speaker-poster/Dhrumil-Shah.png",
-        "time": "1:30 PM to 2:00 PM (IST)",
+        "title": "Session 1: Open Source",
+        "description": "Empowering Developers through Open Source Contributions. Praveen Das will share insights on how open source technologies and collaborative development can transform the developer ecosystem.",
+        "track": "Open Source",
+        "link": "/img/speaker-poster/Praveen-Das.png",
+        "time": "10:30 AM to 11:00 AM (IST)",
         "format": "Day 1",
         "date": "Oct 25, 2025",
         "timeDuration": "30",
@@ -103,44 +54,104 @@
         ]
     },
     {
-        "id": "1009",
+        "id": "2005",
         "slide": "",
-        "title": "Competition",
-        "description": "",
-        "track": "",
-        "link": "",
-        "time": "",
+        "title": "Session 2: Gemini CLI & MCP Server",
+        "description": "Exploring the Power of Gemini CLI with MCP Server. Anubhav Singh will demonstrate how to leverage Gemini CLI and MCP Server for building powerful AI applications.",
+        "track": "AI & Cloud",
+        "link": "/img/speaker-poster/Anubhav-Singh.png",
+        "time": "11:05 AM to 11:25 AM (IST)",
         "format": "Day 1",
         "date": "Oct 25, 2025",
-        "timeDuration": "",
-        "speakers": []
+        "timeDuration": "20",
+        "speakers": [
+            103
+        ]
     },
     {
-        "id": "1011",
+        "id": "2006",
         "slide": "",
-        "title": "Photo Session",
-        "description": "A group photo session for all attendees, speakers, and organizers to capture the memories of the event.",
-        "track": "",
-        "link": "/img/past-devfest/image-1.png",
-        "time": "3:30 PM to 4:00 PM (IST)",
+        "title": "Session 3: ADK & Developer Tools",
+        "description": "Advanced Developer Kit and Productivity with Firebase Tools. Pankaj Rai will showcase how to use ADK and Firebase tools to enhance developer productivity and build scalable applications.",
+        "track": "Android & Firebase",
+        "link": "/img/speaker-poster/pankaj.jpg",
+        "time": "11:30 AM to 11:50 AM (IST)",
         "format": "Day 1",
         "date": "Oct 25, 2025",
-        "timeDuration": "30",
-        "speakers": []
+        "timeDuration": "20",
+        "speakers": [
+            106
+        ]
     },
     {
-        "id": "1012",
+        "id": "2007",
         "slide": "",
-        "title": "Closing Remarks and Networking",
-        "description": "Final thoughts and appreciation for all speakers and attendees. An excellent opportunity for developers to network with industry experts and fellow attendees for future collaborations.",
-        "track": "",
-        "link": "",
-        "time": "4:00 PM(IST)",
+        "title": "Session 4: AI & Enterprise Solutions",
+        "description": "Gaurav Kheterpal will share insights on building enterprise-grade AI solutions and leveraging Google Cloud technologies for scalable applications.",
+        "track": "AI & Cloud",
+        "link": "/img/speaker-poster/gaurav.jpg",
+        "time": "11:55 AM to 12:15 PM (IST)",
         "format": "Day 1",
         "date": "Oct 25, 2025",
-        "timeDuration": "30",
+        "timeDuration": "20",
+        "speakers": [
+            111
+        ]
+    },
+    {
+        "id": "2008",
+        "slide": "",
+        "title": "Session 5: Machine Learning & AI",
+        "description": "Nitin Tiwari will explore advanced machine learning techniques, LLMs, and Generative AI applications, sharing practical insights on deploying ML models at scale.",
+        "track": "ML & AI",
+        "link": "/img/speaker-poster/nitin.jpeg",
+        "time": "12:20 PM to 12:40 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 25, 2025",
+        "timeDuration": "20",
         "speakers": [
             108
         ]
+    },
+    {
+        "id": "2009",
+        "slide": "",
+        "title": "Session 6: Women in Tech",
+        "description": "Shruti Tiwari will lead an inspiring session focused on empowering women in technology, sharing insights and strategies for success in the tech industry.",
+        "track": "Community",
+        "link": "/img/speaker-poster/shruti-tiwari.png",
+        "time": "12:45 PM to 1:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 25, 2025",
+        "timeDuration": "15",
+        "speakers": [
+            110
+        ]
+    },
+    {
+        "id": "2010",
+        "slide": "",
+        "title": "Lunch & Networking Break",
+        "description": "Relax, recharge, and connect with other developers and speakers. An engaging opportunity for attendees to network and connect with speakers and fellow developers, fostering collaboration and sharing insights that extend beyond the event.",
+        "track": "",
+        "link": "/img/speaker-poster/food.jpg",
+        "time": "1:00 PM to 2:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 25, 2025",
+        "timeDuration": "60",
+        "speakers": []
+    },
+    {
+        "id": "2011",
+        "slide": "",
+        "title": "Hands-On Parallel Workshop",
+        "description": "Deep-dive hands-on workshop sessions on modern technologies guided by industry experts. Choose from 3 parallel tracks covering Gemini CLI & MCP Server, Gemini & Generative AI, and Mobile Development.",
+        "track": "",
+        "link": "/img/past-devfest/image-3.png",
+        "time": "2:00 PM to 3:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Oct 25, 2025",
+        "timeDuration": "90",
+        "speakers": []
     }
 ]
