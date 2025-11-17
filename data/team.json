@@ -503,5 +503,95 @@
       "web": ""
     },
     "type": "Volunteer"
+  },
+  {
+    "id": "6031",
+    "name": "Aruhi Kumari",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Aruhi Gupta.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6032",
+    "name": "Agrima Sahu",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Agrima_Sahu.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6033",
+    "name": "Ayush Tripathi",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Ayush Tripathi.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6034",
+    "name": "Priyankar Shukla",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Priyankar Shukla.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6035",
+    "name": "Atul Dwivedi ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Atul.webp",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
   }
 ]
