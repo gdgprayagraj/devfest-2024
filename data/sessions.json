@@ -94,9 +94,7 @@
         "format": "Day 1",
         "date": "Oct 25, 2025",
         "timeDuration": "20",
-        "speakers": [
-            111
-        ]
+        "speakers": []
     },
     {
         "id": "2008",
@@ -145,7 +143,7 @@
         "id": "2011",
         "slide": "",
         "title": "Hands-On Parallel Workshop",
-        "description": "Deep-dive hands-on workshop sessions on modern technologies guided by industry experts. Choose from 3 parallel tracks covering Gemini CLI & MCP Server, Gemini & Generative AI, and Mobile Development.",
+        "description": "Deep-dive hands-on workshop sessions on modern technologies guided by industry experts. Choose from 4 parallel tracks covering Gemini CLI & MCP Server, Gemini & Generative AI, Mobile Development, and I am remarkable workshop.",
         "track": "",
         "link": "/img/past-devfest/image-3.png",
         "time": "2:00 PM to 3:30 PM (IST)",
