@@ -134,7 +134,7 @@
     },
     "community_title": "",
     "image": "Jaish Singh.png",
-    "bio": "Full Stack Developer.",
+    "bio": "Jaish Singh is a Full-Stack Developer with strong experience integrating Machine Learning into modern web applications. He builds scalable, user-centric solutions that combine robust engineering with intelligent, data-driven functionality. As a full-stack professional, he develops end-to-end systems with clean architecture and responsive interfaces. His work includes dynamic web platforms, API-driven services, and cloud-ready applications. Jaish also has hands-on experience creating ML-based features such as NLP, recommendation systems, and predictive analytics. He excels at translating data insights into practical product capabilities. Committed to continuous learning, he thrives at the intersection of software development and AI and enjoys collaborating on innovative, impactful projects.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/jaishsingh/",
       "twitter": "",
@@ -495,6 +495,96 @@
     },
     "community_title": "",
     "image": "Raj Bhartiya.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6031",
+    "name": "Aruhi Kumari",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Aruhi Gupta.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6032",
+    "name": "Agrima Sahu",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Agrima_Sahu.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6033",
+    "name": "Ayush Tripathi",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Ayush Tripathi.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6034",
+    "name": "Priyankar Shukla",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Priyankar Shukla.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6035",
+    "name": "Atul Dwivedi ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Atul.webp",
     "bio": "",
     "social": {
       "linkedin": "",

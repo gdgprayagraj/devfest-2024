@@ -331,14 +331,6 @@ const agendaData = ref([
     isBreak: false,
   },
   {
-    time: "11:55 AM – 12:15 PM",
-    title: "Session 4: AI & Enterprise Solutions",
-    speakers: "<strong>Gaurav Kheterpal</strong> <em>(GDE - AI)</em>",
-    details: "Building enterprise-grade AI solutions with Google Cloud technologies.",
-    highlight: false,
-    isBreak: false,
-  },
-  {
     time: "12:20 PM – 12:40 PM",
     title: "Session 5: Machine Learning & AI",
     speakers: "<strong>Nitin Tiwari</strong> <em>(GDE - Machine Learning)</em>",
