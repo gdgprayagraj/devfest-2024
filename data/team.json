@@ -116,7 +116,7 @@
     },
     "community_title": "",
     "image": "anshuman.jpg",
-    "bio": "MERN Stack Developer & Machine Learning Practitioner.",
+    "bio": "MERN Stack Developer & Machine Learning Practitioner. AI & ML enthusiast passionate about tech and creativity. Core team member at GDG Prayagraj | Co-Envoy WikiClub Tech-UU | Web developer, freelancer & digital strategist shaping ideas into impact",
     "social": {
       "linkedin": "https://www.linkedin.com/in/anshuman-rai-0433032b9/",
       "twitter": "",
@@ -124,6 +124,474 @@
       "web": ""
     },
     "type": "Core"
-  }
+  },
+  {
+    "id": "6009",
+    "name": "Jaish Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Jaish Singh.png",
+    "bio": "Jaish Singh is a Full-Stack Developer with strong experience integrating Machine Learning into modern web applications. He builds scalable, user-centric solutions that combine robust engineering with intelligent, data-driven functionality. As a full-stack professional, he develops end-to-end systems with clean architecture and responsive interfaces. His work includes dynamic web platforms, API-driven services, and cloud-ready applications. Jaish also has hands-on experience creating ML-based features such as NLP, recommendation systems, and predictive analytics. He excels at translating data insights into practical product capabilities. Committed to continuous learning, he thrives at the intersection of software development and AI and enjoys collaborating on innovative, impactful projects.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jaishsingh/",
+      "twitter": "",
+      "github": "https://github.com/jaishsingh",
+      "web": "https://jaish.vercel.app/"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6010",
+    "name": "Manvi Kesarwani",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "manvi.jpg",
+    "bio": "MERN Stack Developer & Machine Learning Practitioner.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6012",
+    "name": "Ayushi Srivastava",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Ayushi.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6013",
+    "name": "Sakshi Rai ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Sakshi Rai.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6014",
+    "name": "Shagun Ratan",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Shagunrtn.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6015",
+    "name": "Pushpak Tiwari",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Pushpak.jpg",
+    "bio": "Pushpak Tiwari blends creativity with technology to build meaningful digital experiences. Passionate about web development, AI and open-source, serving as a Core Team Member at GDG DevFest Prayagraj and volunteer at GDG/TFUG Prayagraj.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6016",
+    "name": "Komal Pandey",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Komal.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6017",
+    "name": "Adarsh kesharwani ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Adarsh.jpg",
+    "bio": "Adarsh Kesharwani is a passionate Full-Stack Web Developer with a strong commitment to open-source contribution and technical excellence. Proficient across the stack, including modern technologies like React, Node.js, and MongoDB, and experienced with modern version control systems. Dedicated to innovation, he also contribute actively to the tech community by working as a Technical Core Member in Wiki Club Tech UIT and volunteering at GDG/TFUG Prayagraj.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6018",
+    "name": "Shivaansh Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Shivaansh Singh.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
   
+  {
+    "id": "6019",
+    "name": "Arohi Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Arohi Singh.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6020",
+    "name": "Reeti Singh",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Reeti Singh.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6021",
+    "name": "T Ebenezer Rao",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Ebenezer Rao.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6022",
+    "name": "Sanskar dubey",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Sanskar Dubey.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6023",
+    "name": "Arpita Jain ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Arpita Jain.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6024",
+    "name": "Prakhar Agrahari",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Prakhar Agrahari.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6025",
+    "name": "Anjali Mishra ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Anjali Mishra.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6026",
+    "name": "Mohammad Manhar",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Mohammad Manhar.png",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6027",
+    "name": "Divyaratann Srivastava ",
+    "company": {
+      "name": "Core Team",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "DIVYARATANN SRIVASTAVA.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6028",
+    "name": "Zoya Rafiq ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Zoya Rafiq.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6029",
+    "name": "Shreshth Srivastava ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Shreshth Srivastava.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6030",
+    "name": "Raj Bhartiya",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Raj Bhartiya.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6031",
+    "name": "Aruhi Kumari",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Aruhi Gupta.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6032",
+    "name": "Agrima Sahu",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Agrima_Sahu.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6033",
+    "name": "Ayush Tripathi",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Ayush Tripathi.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6034",
+    "name": "Priyankar Shukla",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Priyankar Shukla.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6035",
+    "name": "Atul Dwivedi ",
+    "company": {
+      "name": "Volunteer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "Atul.webp",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  }
 ]
