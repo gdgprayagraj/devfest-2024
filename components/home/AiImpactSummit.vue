@@ -46,8 +46,8 @@
 <style scoped>
 .ai-impact-section {
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-  padding: 40px 0;
-  margin: 40px 0;
+  /* padding: 40px 0; */
+  /* margin: 40px 0; */
   border-radius: 12px;
 }
 
@@ -56,7 +56,7 @@
   border-radius: 16px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  border: 3px dotted #4285f4;
 }
 
 .ai-impact-logo {
