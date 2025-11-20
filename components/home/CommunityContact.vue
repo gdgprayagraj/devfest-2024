@@ -1,8 +1,8 @@
 <template>
   <v-container fluid>
-    <v-alert type="warning" variant="tonal" class="my-4" style="font-size: 1.1em;">
+    <!-- <v-alert type="warning" variant="tonal" class="my-4" style="font-size: 1.1em;">
 			<strong>GEN-AI Hackathon:</strong> A 7-hour challenge, innovate, and showcase your GenAI magic. <a href="https://forms.gle/qTDXfZ2BupcLHDDj8" style="color: inherit; text-decoration: underline;">Register now</a> for this exciting opportunity! <br> <a href="/hackathon" style="color: inherit; text-decoration: underline;">Click here</a> to learn more
-		</v-alert>
+		</v-alert> -->
     <v-row>
       <v-col md="12">
         <v-container
