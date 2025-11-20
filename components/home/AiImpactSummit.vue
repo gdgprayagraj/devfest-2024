@@ -21,7 +21,7 @@
               <h2 class="ai-impact-title mb-4">
                 Official Pre-Summit Event of the 
                 <a 
-                  href="https://indiaai.gov.in/ai-impact-summit-2026" 
+                  href="https://impact.indiaai.gov.in" 
                   target="_blank"
                   class="ai-impact-link"
                 >
