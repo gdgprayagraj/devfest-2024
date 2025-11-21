@@ -360,7 +360,7 @@ const agendaData = ref([
       { name: "Anubhav Singh", topic: "Gemini CLI & MCP Server" },
       { name: "Nitin Tiwari", topic: "Gemini & Generative AI" },
       { name: "Pankaj Rai", topic: "Firebase" },
-      { name: "Jay Thakkar", topic: "Machine Learning" },
+      { name: "Jay Thakkar", topic: "Anit-Gravity and Gemini 3" },
     ],
   },
 ]);
