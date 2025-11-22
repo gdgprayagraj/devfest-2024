@@ -68,6 +68,23 @@
     }
   },
   {
+    "id": "107",
+    "name": "Jay Thakkar",
+    "company": {
+      "name": "GDE for AI",
+      "designation": ""
+    },
+    "community_title": "Jay Thakkar is a Google Developer Expert for AI.",
+    "image": "jay.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
     "id": "108",
     "name": "Nitin Tiwari",
     "company": {

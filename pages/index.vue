@@ -10,6 +10,10 @@
         <HomeStats class="my-0 my-md-5" />
         <!-- Stats -->
 
+        <!-- AI Impact Summit -->
+        <HomeAiImpactSummit class="my-0 my-md-5" />
+        <!-- AI Impact Summit -->
+
         <!-- Whats New -->
         <HomeExpectionSection class="mt-md-10" />
         <!-- Whats New -->
