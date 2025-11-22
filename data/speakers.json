@@ -1,5 +1,22 @@
 [
   {
+    "id": "101",
+    "name": "Ankit Kumar Verma",
+    "company": {
+      "name": "GDG Prayagraj Organizer",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "ankit.jpg",
+    "bio": "Ankit Kumar Verma is a passionate community leader and organizer of GDG Prayagraj, TFUG Prayagraj, and CNCF. He is involved with WIKI Tech, Google Crowdsource (IN), Google Search Notes, and serves as a Ping @Google Students Ambassador. Ankit is associated with Spire Lab@IISC, is a UNEP-TUNZA Ambassador, and holds a World Record. He is also an author and CNSS member, actively contributing to the tech community through various initiatives and programs.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
     "id": "102",
     "name": "Praveen Das",
     "company": {
@@ -43,23 +60,6 @@
     "community_title": "",
     "image": "pankaj.jpg",
     "bio": "Pankaj Rai is a Google Developer Expert for Android & Firebase with extensive experience in mobile app development. He specializes in native Android development, creating scalable apps with modern technologies like Kotlin, Jetpack Compose, AAC, and Coroutines. His expertise extends to Machine Learning integration, Augmented Reality with ARCore, and Flutter development. Pankaj is an early adopter of Kotlin and has created open-source libraries including Stories, JetToast, and JetFirestore. He actively contributes to the developer community through articles, YouTube tutorials on his channel \"All Techies\", and speaking at tech events.",
-    "social": {
-      "linkedin": "",
-      "twitter": "",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
-    "id": "111",
-    "name": "Gaurav Kheterpal",
-    "company": {
-      "name": "Google Developer expert AI",
-      "designation": ""
-    },
-    "community_title": "",
-    "image": "gaurav.jpg",
-    "bio": "Gaurav Kheterpal is a Google Developer Expert in AI (2025) and a Multi-Cloud Enterprise Architect with 25+ years of experience in strategic account management and product development. He is a Salesforce MVP Hall of Fame inductee, MuleSoft Ambassador, and Trailblazer with an impressive certification portfolio including 45x Salesforce Certs, 23x Accredited Professional Certs, 4x MuleSoft Certs, 3x Google Certs, and AWS certification. Gaurav is a seasoned speaker who has presented at major events including Dreamforce, TrailheadDX, SF World Tour, and India Dreamin', sharing insights on cutting-edge technologies and scaling enterprise solutions.",
     "social": {
       "linkedin": "",
       "twitter": "",

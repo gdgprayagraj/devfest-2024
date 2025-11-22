@@ -366,7 +366,7 @@ const agendaData = ref([
     time: "2:00 PM – 3:30 PM",
     title: "Hands-On Parallel Workshop",
     speakers:
-      "<div class='workshop-branch'><div class='branch-header'><strong>Track Leads:</strong></div><div class='branch-list'><div class='branch-item'>Anubhav Singh – Gemini CLI & MCP Server</div><div class='branch-item'>Nitin Tiwari – Gemini & Generative AI</div><div class='branch-item'>Pankaj Rai – Mobile Development</div></div></div>",
+      "<div class='workshop-branch'><div class='branch-header'><strong>Track Leads:</strong></div><div class='branch-list'><div class='branch-item'>Anubhav Singh – Gemini CLI & MCP Server</div><div class='branch-item'>Nitin Tiwari – Gemini & Generative AI</div><div class='branch-item'>Pankaj Rai – Mobile Development</div><div class='branch-item'>Shruti Tiwari – I am remarkable</div></div></div>",
     details:
       "Deep-dive hands-on workshop sessions on modern technologies guided by industry experts.",
     highlight: false,
@@ -376,6 +376,7 @@ const agendaData = ref([
       { name: "Anubhav Singh", topic: "Gemini CLI & MCP Server" },
       { name: "Nitin Tiwari", topic: "Gemini & Generative AI" },
       { name: "Pankaj Rai", topic: "Mobile Development" },
+      { name: "Shruti Tiwari", topic: "I am remarkable" },
     ],
   },
 ]);
